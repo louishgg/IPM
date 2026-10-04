@@ -1,0 +1,2 @@
+Scope,Dataset,Asset_ID,Provider,Provider_Symbol,Effective_Start,Effective_End,Status,Requested_Start,Requested_End,Observation_Count,Observation_Start,Observation_End,Attempted_At_UTC,Client,Client_Version,HTTP_Status,Error_Class,Error_Message,Migration_Note
+backtest,benchmark,SP500TR,yahoo,^SP500TR,,,ok,2014-01-01,2026-01-31,145,2014-01-31,2026-01-31,2026-08-28T11:27:22.168972Z,yfinance,1.5.1,200,,,

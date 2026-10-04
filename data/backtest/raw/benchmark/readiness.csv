@@ -1,0 +1,2 @@
+Scope,Dataset,Asset_ID,Requirement_Set,Required_Count,Covered_Count,Status,Missing_Dates,Contributing_Sources,Checked_At_UTC
+backtest,benchmark,SP500TR,monthly_total_return_benchmark,145,145,complete,[],"[""yahoo""]",2026-08-28T11:27:19.001963Z

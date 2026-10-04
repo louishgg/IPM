@@ -1,0 +1,33 @@
+\section{Objective and risk preference}
+\label{sec:objective}
+
+Our objective was to outperform the S\&P 500 Total Return benchmark through
+systematic long-short stock selection. The competition ran from
+13 February to 6 May 2026 with \$1 million, S\&P 500 stocks, at least ten longs
+and ten shorts, and a 200\% gross exposure ceiling. Our simulations apply its
+2\% cash and 8\% borrowing annual percentage rates, plus a \$2 fee per order
+and the bid-ask spread.
+
+We calibrate risk preference from ten questionnaire responses, reversing
+items 2, 3, 8 and 9 as \(Q_i^*=8-Q_i\):
+\begin{center}
+\small
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+Item & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10\\
+\midrule
+Our response & 7 & 5 & 1 & 1 & 7 & 5 & 7 & 1 & 3 & 3\\
+Adjusted score & 7 & 3 & 7 & 1 & 7 & 5 & 7 & 7 & 5 & 3\\
+\bottomrule
+\end{tabular}
+\end{center}
+\vspace{-0.4em}
+\begin{equation}
+ \mathrm{BRTI}=\frac{52}{10}=5.2,\qquad
+ q=\frac{5.2-1}{6}=0.7,\qquad
+ \lambda=12.5e^{-0.35(5.2-1)}=2.8741.
+\end{equation}
+
+This indicates relatively high risk tolerance. The frontier analysis uses
+\(U=\mathbb{E}[R_p]-(\lambda/2)\sigma_p^2\), with annual decimal returns
+and variance; the calibration does not set strategy leverage.

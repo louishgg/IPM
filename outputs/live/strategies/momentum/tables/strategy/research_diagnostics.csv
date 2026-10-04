@@ -1,0 +1,4 @@
+Rebalance_ID,Signal_Cutoff,Signal_Source_Date,Status,Available_Candidates,Eligible_Signal_Count,Final_Long_Count,Final_Short_Count,Selected_Long_Sectors_JSON,Selected_Short_Sectors_JSON,Target_Gross,Construction_Ready
+R1,2026-02-27,2026-02-27,complete,503,502,10,10,[],[],1.5,1
+R2,2026-03-31,2026-03-31,complete,503,502,10,10,[],[],1.5,1
+R3,2026-04-30,2026-04-30,complete,503,502,10,10,[],[],1.5,1

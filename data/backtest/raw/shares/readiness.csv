@@ -1,0 +1,2 @@
+Scope,Dataset,Asset_ID,Requirement_Set,Required_Count,Covered_Count,Status,Missing_Dates,Contributing_Sources,Checked_At_UTC
+backtest,shares,*,brinson_active_asset_month,12576,12576,complete,[],"[""event_estimate"",""sec"",""yahoo""]",2026-09-15T12:17:39.407550Z

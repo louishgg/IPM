@@ -1,0 +1,15 @@
+{
+  "content_hash": "5f8ce1c3389af1a83ddca0900cfee8641f4f7868e8df2b30248210333245b0c5",
+  "files": {
+    "figures/frontier.png": "21ea23c986547d6d996c18edbe9251d1674e32cff7866a6bbbbe5a5ddcc7e116",
+    "metadata/diagnostics.json": "74651df8d25aa75028436390c809abb634dca9de6f94fa508a785f2b2d898c67",
+    "tables/coverage.csv": "2546d467c49900f9c178d5d37994566ba5e73e4cdbef8119923c48a5c28a023d",
+    "tables/formation_targets.csv": "f3ab37f43e5dcb1894e4e4810ed3342f0a0484ecfa18d33a39a99dd711811f3e",
+    "tables/frontier.csv": "cbd0fb0d801a5ef689a6eae38ebcd899d3eeb74bb7c7c3098896b8eaa1312ac3",
+    "tables/missing_intervals.csv": "704fbc5513061f6806a6d509c065e316ac756e5c94e05338473cbffd1b0b87d5",
+    "tables/returns.csv": "2378f0b1f7246f384db9dbb62707c9d8fcbd159f2703b9a6aaae51a51bc37f81",
+    "tables/sensitivity.csv": "88fc140538bf2fbd25b34daf56bbeb83d9fd7f4c63de7b4d9b4cbbfd1815ee1e",
+    "tables/summary.csv": "dc7d0744dbd2d2c750ca5bbcd58a71b3c07a8cfa342626552fc043c1e76de93c",
+    "tables/weights.csv": "694ccca92684c4e11e1969ede8682a8daeb6f47074dcd4fb44d984cf662da465"
+  }
+}

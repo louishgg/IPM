@@ -1,0 +1,50 @@
+\section{Momentum strategy}
+\label{sec:momentum}
+
+Momentum buys recent winners and shorts losers \citep{jegadeeshtitman1993}.
+Our selected configuration, \#1292, uses six formation months and a one-month
+skip. For prepared month-end close $P_{i,t}$, its signal is
+\begin{equation}
+ M_{i,t}=\frac{P_{i,t-1}}{P_{i,t-7}}-1.
+ \label{eq:momentum}
+\end{equation}
+
+We rank eligible stocks in descending order for longs and ascending order for
+shorts, breaking ties by \texttt{Asset\_ID}. Eligibility requires finite signals,
+historical membership, sector records and valid price/event valuations.
+Initially we take ten stocks on each side, with no overlap. Later decisions
+retain incumbents within their side's top fifteen ranks ($10\times1.5$) and
+fill vacancies in rank order.
+
+\subsection{Sizing and trading}
+
+With gross exposure $G=1.5$ and long share $a=0.7$, target weights are
+\begin{equation}
+ w_{i,t}^{\mathrm{raw}}=
+ \begin{cases}
+   Ga/10=+0.105, & i\in L_t,\\
+   -G(1-a)/10=-0.045, & i\in S_t,\\
+   0, & \text{otherwise}.
+ \end{cases}
+ \label{eq:weights}
+\end{equation}
+
+The book is 105\% long and 45\% short: 150\% gross exposure and 60\% net long exposure.
+Positions are equal within each side, with no sector neutrality.
+We impose no fixed single-position cap.
+
+Targets convert to whole units on each domain's declared price basis, using
+the sizing price and NAV. Same-side resizing is suppressed when absolute
+weight drift is at most 0.05 of NAV. Entries, exits and sign changes still
+trade; feasibility repairs can override suppression. This five-percentage-point
+threshold exceeds a short position's 4.5\% target, allowing substantial weight
+drift.
+
+The historical engine decides, sizes and trades at the labelled month-end
+close, then values the next interval. The signal is lagged, but sizing and
+spread inputs use that close. The competition replay instead executes
+month-end targets at the next scheduled trading-day open.
+
+The rank buffer and resize threshold limit small adjustments, not losses.
+Concentrated longs, sector imbalance, short squeezes and leverage remain
+material risks.

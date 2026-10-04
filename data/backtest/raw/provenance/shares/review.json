@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "reviewed_start_date": "2024-01-31",
+  "reviewed_end_date": "2026-01-31",
+  "required_pairs_sha256": "202c8aa7bf8c63685a7a62b964b4726b4814c44d7dbe805c9d87dd91c4620a83",
+  "prepared_prices_sha256": "9082c46f501175c2e5ee84619f60b05e0407efaa46f3747bf288b0a716c1a451",
+  "price_basis_sha256": "9c54a677b529b156b92429a27104cb780dc3657a7c3969b60147b05838913e99"
+}

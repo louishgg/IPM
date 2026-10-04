@@ -1,0 +1,81 @@
+{
+  "schema_version": "2.0.0",
+  "strategy_id": "momentum",
+  "signal_profiles": [
+    {
+      "formation_months": 3,
+      "skip_months": 1
+    },
+    {
+      "formation_months": 6,
+      "skip_months": 1
+    },
+    {
+      "formation_months": 9,
+      "skip_months": 1
+    },
+    {
+      "formation_months": 11,
+      "skip_months": 1
+    },
+    {
+      "formation_months": 12,
+      "skip_months": 1
+    }
+  ],
+  "n_long": [
+    10,
+    20
+  ],
+  "n_short": [
+    10,
+    20
+  ],
+  "sizing_profiles": [
+    {
+      "method": "equal",
+      "volatility": null
+    },
+    {
+      "method": "inverse_volatility",
+      "volatility": {
+        "window": 60,
+        "minimum_observations": 24
+      }
+    }
+  ],
+  "buffer_profiles": [
+    {
+      "enabled": false,
+      "exit_multiplier": null
+    },
+    {
+      "enabled": true,
+      "exit_multiplier": 1.25
+    },
+    {
+      "enabled": true,
+      "exit_multiplier": 1.5
+    }
+  ],
+  "turnover_threshold": [
+    0,
+    0.01,
+    0.025,
+    0.05
+  ],
+  "sector_neutral": [
+    false,
+    true
+  ],
+  "long_share": [
+    0.5,
+    0.6,
+    0.7
+  ],
+  "gross": [
+    1.0,
+    1.5,
+    2.0
+  ]
+}

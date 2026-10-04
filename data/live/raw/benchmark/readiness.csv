@@ -1,0 +1,2 @@
+Scope,Dataset,Asset_ID,Requirement_Set,Required_Count,Covered_Count,Status,Missing_Dates,Contributing_Sources,Checked_At_UTC
+live,benchmark,^SP500TR,execution_valuation_benchmark,5,5,complete,[],"[""yahoo""]",2026-09-08T22:53:46.941201Z

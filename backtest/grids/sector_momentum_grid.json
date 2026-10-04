@@ -1,0 +1,83 @@
+{
+  "schema_version": "2.0.0",
+  "strategy_id": "sector_momentum",
+  "signal_profiles": [
+    {
+      "formation_months": 1,
+      "skip_months": 0
+    },
+    {
+      "formation_months": 1,
+      "skip_months": 1
+    },
+    {
+      "formation_months": 6,
+      "skip_months": 0
+    },
+    {
+      "formation_months": 6,
+      "skip_months": 1
+    },
+    {
+      "formation_months": 12,
+      "skip_months": 0
+    },
+    {
+      "formation_months": 12,
+      "skip_months": 1
+    }
+  ],
+  "sizing_profiles": [
+    {
+      "method": "equal",
+      "volatility": null
+    },
+    {
+      "method": "inverse_volatility",
+      "volatility": {
+        "window": 60,
+        "minimum_observations": 24
+      }
+    }
+  ],
+  "buffer_profiles": [
+    {
+      "enabled": false,
+      "exit_multiplier": null
+    },
+    {
+      "enabled": true,
+      "exit_multiplier": 1.25
+    },
+    {
+      "enabled": true,
+      "exit_multiplier": 1.5
+    }
+  ],
+  "turnover_threshold": [
+    0,
+    0.01,
+    0.025,
+    0.05
+  ],
+  "sector_neutral": [
+    false,
+    true
+  ],
+  "long_share": [
+    0.5,
+    0.6,
+    0.7
+  ],
+  "gross": [
+    1.0,
+    1.5,
+    2.0
+  ],
+  "n_long_sectors": [
+    3
+  ],
+  "n_short_sectors": [
+    3
+  ]
+}

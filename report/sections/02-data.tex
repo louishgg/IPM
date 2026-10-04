@@ -1,0 +1,73 @@
+\section{Data and research framework}
+\label{sec:data}
+
+\subsection{Prices and sources}
+
+The monthly dataset covers January 2014-January 2026, including benchmark,
+membership, sector and corporate-action records. We label each month's latest
+observation by calendar month-end and prioritize Reuters, unadjusted Yahoo
+\texttt{Close}, then a fixed, hash-verified WIKI extract. Missing latest Reuters
+closes never revive stale quotes. Duplicate Reuters date/security rows merge
+only if nonmissing prices and volumes agree; conflicts fail preparation.
+We neither interpolate prices nor replace historical constituents with today's
+universe.
+
+\begin{table}[htbp]
+\centering
+\begin{threeparttable}
+\small
+\begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}p{0.24\linewidth}X@{}}
+\toprule
+\textbf{Source or evidence} & \textbf{Role and interpretation} \\
+\midrule
+Supplied Reuters & Primary monthly backtest prices and volumes; reviewed
+fallbacks fill identified gaps. \\
+Yahoo Finance & S\&P 500 Total Return benchmark, adjusted daily competition
+replay prices, and specific backtest or shares requirements. \\
+Historical membership & Effective-dated S\&P 500 baskets from the
+\texttt{fja05680/sp500} history, checked against changes and intervals. \\
+Dated Wikipedia revisions & Historical GICS sector evidence, supplemented by
+reviewed S\&P addition notices only where a new member is absent. \\
+Issuer / SEC evidence & Security events, transaction terms, issuer
+continuity and reviewed outstanding-share observations. \\
+\bottomrule
+\end{tabularx}
+\caption[Data sources and analytical roles]{Data sources and their analytical roles.}
+\label{tab:data-sources}
+\end{threeparttable}
+\end{table}
+
+The backtest uses mixed-source \emph{price returns} with reviewed corporate
+actions but omits ordinary dividends. The competition replay uses adjusted
+Yahoo prices and reviewed monthly reconstructions, including dividends once
+in closes or event-return factors. This difference limits comparison with the
+total-return benchmark. Each result records its price convention and
+simulation fingerprint.
+
+\subsection{Identities and historical coverage}
+
+A canonical \texttt{Asset\_ID} distinguishes ticker changes from conversions
+into different securities. Mappings are start-inclusive and end-exclusive;
+overlaps, orphan references and unapproved aliases fail validation. Historical
+membership baskets, changes and intervals must agree at each decision date.
+The membership history was reconstructed after the competition.
+
+Sectors use the final Wikipedia revision before 00:00 UTC on each required
+date. Reviewed S\&P notices fill missing new members from their effective dates
+without overwriting classifications; conflicts fail. Assignments retain GICS
+codes, source-era labels and references. This reconstruction is not a licensed
+GICS history.
+
+Structured corporate-action records govern signed entitlements, fractional
+shares, restricted proceeds and event-date financing. Mandatory delivery
+incurs no trade fee; a required sale of an off-universe security does.
+Attribution capitalization uses prices, capitalization factors and reviewed
+shares, preferring SEC/issuer counts, then event estimates, then consistent
+Yahoo responses. Missing counts stop preparation; later publications may
+establish earlier share counts for retrospective attribution.
+
+Manifests and audits record hashes and transformations; raw provider data
+remain local. Backtest eligibility requires a positive holding-period endpoint
+price or approved event valuation. Although signals use only lagged history,
+this availability filter is retrospective and can favor simulated
+feasibility.

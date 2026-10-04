@@ -1,0 +1,108 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Local coding-agent instructions
+/AGENTS.md
+
+# Python bytecode and tool caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Local environments and secrets
+.venv/
+venv/
+env/
+ENV/
+__pypackages__/
+.env
+.env.*
+!.env.example
+
+# StockTrak rankings
+/data/shared/supplied/stocktrak/rankings/
+
+# Acquisition runtime and temporary database files
+/runtime/acquisition/
+*.sqlite-shm
+*.sqlite-wal
+*.sqlite-journal
+*.db-shm
+*.db-wal
+*.db-journal
+
+# Shared source data; keep metadata
+/data/shared/supplied/reuters/SP500_Full_2014_2026_Cleaned.csv
+/data/shared/provenance/sp500_membership/S&P 500 Historical Components & Changes (Updated).csv
+/data/shared/provenance/sp500_membership/sp500_changes_since_2019.csv
+/data/shared/provenance/sp500_membership/sp500_ticker_start_end.csv
+/data/shared/provenance/sector_history/*
+!/data/shared/provenance/sector_history/acquisition_status.csv
+!/data/shared/provenance/sector_history/artifact_manifest.csv
+!/data/shared/provenance/sector_history/sp500_constituent_notices.csv
+
+# Backtest source data; keep metadata
+/data/backtest/raw/sp500tr_raw.csv
+/data/backtest/raw/benchmark/*
+!/data/backtest/raw/benchmark/artifact_manifest.csv
+!/data/backtest/raw/benchmark/acquisition_status.csv
+!/data/backtest/raw/benchmark/readiness.csv
+/data/backtest/raw/prices/*
+!/data/backtest/raw/prices/acquisition_status.csv
+!/data/backtest/raw/prices/readiness.csv
+!/data/backtest/raw/prices/artifact_manifest.csv
+/data/backtest/raw/shares/*
+!/data/backtest/raw/shares/acquisition_status.csv
+!/data/backtest/raw/shares/readiness.csv
+!/data/backtest/raw/shares/artifact_manifest.csv
+
+/data/backtest/raw/provenance/shares/capitalization_price_factors.csv
+
+# Live source data; keep metadata
+/data/live/raw/prices/*
+!/data/live/raw/prices/acquisition_status.csv
+!/data/live/raw/prices/readiness.csv
+!/data/live/raw/prices/artifact_manifest.csv
+!/data/live/raw/prices/supplemental/
+/data/live/raw/prices/supplemental/*
+!/data/live/raw/prices/supplemental/artifact_manifest.csv
+!/data/live/raw/prices/monthly/
+/data/live/raw/prices/monthly/*
+!/data/live/raw/prices/monthly/artifact_manifest.csv
+/data/live/raw/benchmark/*
+!/data/live/raw/benchmark/acquisition_status.csv
+!/data/live/raw/benchmark/readiness.csv
+!/data/live/raw/benchmark/artifact_manifest.csv
+/data/live/raw/shares/*
+!/data/live/raw/shares/acquisition_status.csv
+!/data/live/raw/shares/readiness.csv
+!/data/live/raw/shares/artifact_manifest.csv
+
+# Search outputs; keep summaries and metadata
+/outputs/backtest/searches/**
+!/outputs/backtest/searches/*/
+!/outputs/backtest/searches/*/candidates.csv.gz
+!/outputs/backtest/searches/*/fold_metrics.csv.gz
+!/outputs/backtest/searches/*/search_configuration.json
+!/outputs/backtest/searches/*/preflight.csv.gz
+!/outputs/backtest/searches/*/coverage.csv.gz
+!/outputs/backtest/searches/*/rejected.csv.gz
+!/outputs/backtest/searches/*/duplicates.csv.gz
+!/outputs/backtest/searches/*/timing.json
+!/outputs/backtest/searches/sector_momentum/sector_return_manifest.json
+
+# Prepared data; keep preparation manifests
+/data/backtest/prepared/*
+!/data/backtest/prepared/preparation_manifest.csv
+/data/live/prepared/*
+!/data/live/prepared/preparation_manifest.csv

@@ -1,0 +1,2 @@
+Schema_Version,Scope,Dataset,Origin,Captured_At_UTC,Artifact_Path,SHA256,Rows,Columns
+2,live,corporate_action_policy,manual,2026-09-26T06:59:34.718083Z,corporate_action_policy.csv,a1cecb48968acb2cce39160ad75e4cc25725405d755ede7078606b77cf2cb1e7,11,"[""Event_ID"",""Scope"",""Apply_Accounting"",""CVR_Base_Value_Per_Unit"",""Valuation_As_Of_Date"",""Valuation_Available_Date"",""Valuation_Source_ID"",""Review_Status"",""Notes""]"

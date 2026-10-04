@@ -1,0 +1,4 @@
+File,Source_URL,Recorded_At,SHA256,Rows,Maximum_Date,Provenance_Label
+S&P 500 Historical Components & Changes (Updated).csv,https://github.com/fja05680/sp500,2026-07-22,39a9202c9ef69a74c0ff07e2113ad41fb6da7c8c5b6cd9541f0185fb4391e717,2718,2026-06-30,post-competition retrospective effective-date reconstruction
+sp500_changes_since_2019.csv,https://github.com/fja05680/sp500,2026-07-22,8a187dc1ed1d2bca9ea7a8408a8d7710401fe004705165895bac7aac2811efbc,123,2026-06-30,post-competition retrospective effective-date reconstruction
+sp500_ticker_start_end.csv,https://github.com/fja05680/sp500,2026-07-22,39c488ebd6ce6838599e54751adbe8c8e4b68d5801dd77d29b6d137dd77388ac,1259,2026-06-30,post-competition retrospective effective-date reconstruction

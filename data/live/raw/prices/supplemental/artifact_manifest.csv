@@ -1,0 +1,2 @@
+Schema_Version,Scope,Dataset,Origin,Captured_At_UTC,Artifact_Path,SHA256,Rows,Columns
+2,live,prices_supplemental,migrated,,yahoo_ohlcv.csv,f0595b32175c579282f70394918f5e3935afef9213cf14f1d4a8faf823978e71,1073,"[""Date"",""Asset_ID"",""Provider_Symbol"",""Open"",""Close"",""Volume""]"

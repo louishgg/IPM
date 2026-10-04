@@ -1,0 +1,5770 @@
+{
+  "candidates": [
+    {
+      "Candidate_Number": 1,
+      "Status": "ranked",
+      "evaluation_seconds": 28.22144200000912
+    },
+    {
+      "Candidate_Number": 2,
+      "Status": "ranked",
+      "evaluation_seconds": 28.621067708998453
+    },
+    {
+      "Candidate_Number": 3,
+      "Status": "ranked",
+      "evaluation_seconds": 38.771279375010636
+    },
+    {
+      "Candidate_Number": 4,
+      "Status": "ranked",
+      "evaluation_seconds": 28.986008291016333
+    },
+    {
+      "Candidate_Number": 5,
+      "Status": "ranked",
+      "evaluation_seconds": 29.394618541991804
+    },
+    {
+      "Candidate_Number": 6,
+      "Status": "ranked",
+      "evaluation_seconds": 39.785126625036355
+    },
+    {
+      "Candidate_Number": 7,
+      "Status": "ranked",
+      "evaluation_seconds": 30.85457383299945
+    },
+    {
+      "Candidate_Number": 8,
+      "Status": "ranked",
+      "evaluation_seconds": 30.881601041997783
+    },
+    {
+      "Candidate_Number": 9,
+      "Status": "ranked",
+      "evaluation_seconds": 42.28317545802565
+    },
+    {
+      "Candidate_Number": 10,
+      "Status": "ranked",
+      "evaluation_seconds": 38.206268917012494
+    },
+    {
+      "Candidate_Number": 11,
+      "Status": "ranked",
+      "evaluation_seconds": 38.571310583967716
+    },
+    {
+      "Candidate_Number": 12,
+      "Status": "ranked",
+      "evaluation_seconds": 50.82102124998346
+    },
+    {
+      "Candidate_Number": 13,
+      "Status": "ranked",
+      "evaluation_seconds": 31.761261124978773
+    },
+    {
+      "Candidate_Number": 14,
+      "Status": "ranked",
+      "evaluation_seconds": 32.134703833959065
+    },
+    {
+      "Candidate_Number": 15,
+      "Status": "ranked",
+      "evaluation_seconds": 44.96761824999703
+    },
+    {
+      "Candidate_Number": 16,
+      "Status": "ranked",
+      "evaluation_seconds": 32.23329866700806
+    },
+    {
+      "Candidate_Number": 17,
+      "Status": "ranked",
+      "evaluation_seconds": 32.50438891700469
+    },
+    {
+      "Candidate_Number": 18,
+      "Status": "ranked",
+      "evaluation_seconds": 45.89589275000617
+    },
+    {
+      "Candidate_Number": 19,
+      "Status": "ranked",
+      "evaluation_seconds": 32.3932175830123
+    },
+    {
+      "Candidate_Number": 20,
+      "Status": "ranked",
+      "evaluation_seconds": 32.42337850003969
+    },
+    {
+      "Candidate_Number": 21,
+      "Status": "ranked",
+      "evaluation_seconds": 46.34541954199085
+    },
+    {
+      "Candidate_Number": 22,
+      "Status": "ranked",
+      "evaluation_seconds": 42.031454292009585
+    },
+    {
+      "Candidate_Number": 23,
+      "Status": "ranked",
+      "evaluation_seconds": 42.08315570798004
+    },
+    {
+      "Candidate_Number": 24,
+      "Status": "ranked",
+      "evaluation_seconds": 62.279036541993264
+    },
+    {
+      "Candidate_Number": 25,
+      "Status": "ranked",
+      "evaluation_seconds": 32.605115958023816
+    },
+    {
+      "Candidate_Number": 26,
+      "Status": "ranked",
+      "evaluation_seconds": 32.73860445799073
+    },
+    {
+      "Candidate_Number": 27,
+      "Status": "ranked",
+      "evaluation_seconds": 44.104006625013426
+    },
+    {
+      "Candidate_Number": 28,
+      "Status": "ranked",
+      "evaluation_seconds": 32.94507904199418
+    },
+    {
+      "Candidate_Number": 29,
+      "Status": "ranked",
+      "evaluation_seconds": 32.936813250009436
+    },
+    {
+      "Candidate_Number": 30,
+      "Status": "ranked",
+      "evaluation_seconds": 44.33038899995154
+    },
+    {
+      "Candidate_Number": 31,
+      "Status": "ranked",
+      "evaluation_seconds": 33.2672651669709
+    },
+    {
+      "Candidate_Number": 32,
+      "Status": "ranked",
+      "evaluation_seconds": 34.06341458298266
+    },
+    {
+      "Candidate_Number": 33,
+      "Status": "ranked",
+      "evaluation_seconds": 43.15343008300988
+    },
+    {
+      "Candidate_Number": 34,
+      "Status": "ranked",
+      "evaluation_seconds": 44.002714750007726
+    },
+    {
+      "Candidate_Number": 35,
+      "Status": "ranked",
+      "evaluation_seconds": 43.806630500010215
+    },
+    {
+      "Candidate_Number": 36,
+      "Status": "ranked",
+      "evaluation_seconds": 64.24721354199573
+    },
+    {
+      "Candidate_Number": 37,
+      "Status": "ranked",
+      "evaluation_seconds": 33.301036833028775
+    },
+    {
+      "Candidate_Number": 38,
+      "Status": "ranked",
+      "evaluation_seconds": 33.25990579201607
+    },
+    {
+      "Candidate_Number": 39,
+      "Status": "ranked",
+      "evaluation_seconds": 41.82859749998897
+    },
+    {
+      "Candidate_Number": 40,
+      "Status": "ranked",
+      "evaluation_seconds": 33.229489790974185
+    },
+    {
+      "Candidate_Number": 41,
+      "Status": "ranked",
+      "evaluation_seconds": 33.31027241697302
+    },
+    {
+      "Candidate_Number": 42,
+      "Status": "ranked",
+      "evaluation_seconds": 40.34535345801851
+    },
+    {
+      "Candidate_Number": 43,
+      "Status": "ranked",
+      "evaluation_seconds": 33.36719224997796
+    },
+    {
+      "Candidate_Number": 44,
+      "Status": "ranked",
+      "evaluation_seconds": 33.823960291047115
+    },
+    {
+      "Candidate_Number": 45,
+      "Status": "ranked",
+      "evaluation_seconds": 41.035557667026296
+    },
+    {
+      "Candidate_Number": 46,
+      "Status": "ranked",
+      "evaluation_seconds": 44.73456504201749
+    },
+    {
+      "Candidate_Number": 47,
+      "Status": "ranked",
+      "evaluation_seconds": 44.639410624979064
+    },
+    {
+      "Candidate_Number": 48,
+      "Status": "ranked",
+      "evaluation_seconds": 68.25607833301183
+    },
+    {
+      "Candidate_Number": 49,
+      "Status": "ranked",
+      "evaluation_seconds": 36.03208066703519
+    },
+    {
+      "Candidate_Number": 50,
+      "Status": "ranked",
+      "evaluation_seconds": 36.66367249999894
+    },
+    {
+      "Candidate_Number": 51,
+      "Status": "ranked",
+      "evaluation_seconds": 50.41169279097812
+    },
+    {
+      "Candidate_Number": 52,
+      "Status": "ranked",
+      "evaluation_seconds": 37.42320237500826
+    },
+    {
+      "Candidate_Number": 53,
+      "Status": "ranked",
+      "evaluation_seconds": 37.32845537504181
+    },
+    {
+      "Candidate_Number": 54,
+      "Status": "ranked",
+      "evaluation_seconds": 50.761905499966815
+    },
+    {
+      "Candidate_Number": 55,
+      "Status": "ranked",
+      "evaluation_seconds": 38.21433425002033
+    },
+    {
+      "Candidate_Number": 56,
+      "Status": "ranked",
+      "evaluation_seconds": 38.86028779100161
+    },
+    {
+      "Candidate_Number": 57,
+      "Status": "ranked",
+      "evaluation_seconds": 54.554653500032146
+    },
+    {
+      "Candidate_Number": 58,
+      "Status": "ranked",
+      "evaluation_seconds": 48.63183112500701
+    },
+    {
+      "Candidate_Number": 59,
+      "Status": "ranked",
+      "evaluation_seconds": 49.203076417034026
+    },
+    {
+      "Candidate_Number": 60,
+      "Status": "ranked",
+      "evaluation_seconds": 62.59253720898414
+    },
+    {
+      "Candidate_Number": 61,
+      "Status": "ranked",
+      "evaluation_seconds": 40.83653974998742
+    },
+    {
+      "Candidate_Number": 62,
+      "Status": "ranked",
+      "evaluation_seconds": 40.74724400002742
+    },
+    {
+      "Candidate_Number": 63,
+      "Status": "ranked",
+      "evaluation_seconds": 54.9258518749848
+    },
+    {
+      "Candidate_Number": 64,
+      "Status": "ranked",
+      "evaluation_seconds": 38.73169720795704
+    },
+    {
+      "Candidate_Number": 65,
+      "Status": "ranked",
+      "evaluation_seconds": 38.905173415958416
+    },
+    {
+      "Candidate_Number": 66,
+      "Status": "ranked",
+      "evaluation_seconds": 53.71724320802605
+    },
+    {
+      "Candidate_Number": 67,
+      "Status": "ranked",
+      "evaluation_seconds": 37.26194020797266
+    },
+    {
+      "Candidate_Number": 68,
+      "Status": "ranked",
+      "evaluation_seconds": 36.99568791594356
+    },
+    {
+      "Candidate_Number": 69,
+      "Status": "ranked",
+      "evaluation_seconds": 52.234273833048064
+    },
+    {
+      "Candidate_Number": 70,
+      "Status": "ranked",
+      "evaluation_seconds": 46.851723499945365
+    },
+    {
+      "Candidate_Number": 71,
+      "Status": "ranked",
+      "evaluation_seconds": 46.802941208996344
+    },
+    {
+      "Candidate_Number": 72,
+      "Status": "ranked",
+      "evaluation_seconds": 68.23617887496948
+    },
+    {
+      "Candidate_Number": 73,
+      "Status": "ranked",
+      "evaluation_seconds": 36.12676420802018
+    },
+    {
+      "Candidate_Number": 74,
+      "Status": "ranked",
+      "evaluation_seconds": 36.07857629202772
+    },
+    {
+      "Candidate_Number": 75,
+      "Status": "ranked",
+      "evaluation_seconds": 49.10333124996396
+    },
+    {
+      "Candidate_Number": 76,
+      "Status": "ranked",
+      "evaluation_seconds": 36.73628016700968
+    },
+    {
+      "Candidate_Number": 77,
+      "Status": "ranked",
+      "evaluation_seconds": 36.8212796250009
+    },
+    {
+      "Candidate_Number": 78,
+      "Status": "ranked",
+      "evaluation_seconds": 47.84723370795837
+    },
+    {
+      "Candidate_Number": 79,
+      "Status": "ranked",
+      "evaluation_seconds": 36.7975403330056
+    },
+    {
+      "Candidate_Number": 80,
+      "Status": "ranked",
+      "evaluation_seconds": 36.83953045797534
+    },
+    {
+      "Candidate_Number": 81,
+      "Status": "ranked",
+      "evaluation_seconds": 46.81990233302349
+    },
+    {
+      "Candidate_Number": 82,
+      "Status": "ranked",
+      "evaluation_seconds": 47.99697220796952
+    },
+    {
+      "Candidate_Number": 83,
+      "Status": "ranked",
+      "evaluation_seconds": 48.13591141597135
+    },
+    {
+      "Candidate_Number": 84,
+      "Status": "ranked",
+      "evaluation_seconds": 70.36678608396323
+    },
+    {
+      "Candidate_Number": 85,
+      "Status": "ranked",
+      "evaluation_seconds": 37.33102937496733
+    },
+    {
+      "Candidate_Number": 86,
+      "Status": "ranked",
+      "evaluation_seconds": 37.38520062499447
+    },
+    {
+      "Candidate_Number": 87,
+      "Status": "ranked",
+      "evaluation_seconds": 46.74901662499178
+    },
+    {
+      "Candidate_Number": 88,
+      "Status": "ranked",
+      "evaluation_seconds": 37.671784584003035
+    },
+    {
+      "Candidate_Number": 89,
+      "Status": "ranked",
+      "evaluation_seconds": 37.69015962496633
+    },
+    {
+      "Candidate_Number": 90,
+      "Status": "ranked",
+      "evaluation_seconds": 45.56161883397726
+    },
+    {
+      "Candidate_Number": 91,
+      "Status": "ranked",
+      "evaluation_seconds": 37.74927741702413
+    },
+    {
+      "Candidate_Number": 92,
+      "Status": "ranked",
+      "evaluation_seconds": 37.802221124991775
+    },
+    {
+      "Candidate_Number": 93,
+      "Status": "ranked",
+      "evaluation_seconds": 45.86246525001479
+    },
+    {
+      "Candidate_Number": 94,
+      "Status": "ranked",
+      "evaluation_seconds": 48.8303702500416
+    },
+    {
+      "Candidate_Number": 95,
+      "Status": "ranked",
+      "evaluation_seconds": 48.82655783300288
+    },
+    {
+      "Candidate_Number": 96,
+      "Status": "ranked",
+      "evaluation_seconds": 71.48715937498491
+    },
+    {
+      "Candidate_Number": 97,
+      "Status": "ranked",
+      "evaluation_seconds": 38.76546812499873
+    },
+    {
+      "Candidate_Number": 98,
+      "Status": "ranked",
+      "evaluation_seconds": 38.82600816700142
+    },
+    {
+      "Candidate_Number": 99,
+      "Status": "ranked",
+      "evaluation_seconds": 52.846146458992735
+    },
+    {
+      "Candidate_Number": 100,
+      "Status": "ranked",
+      "evaluation_seconds": 39.37689712498104
+    },
+    {
+      "Candidate_Number": 101,
+      "Status": "ranked",
+      "evaluation_seconds": 39.68316195800435
+    },
+    {
+      "Candidate_Number": 102,
+      "Status": "ranked",
+      "evaluation_seconds": 55.351021208043676
+    },
+    {
+      "Candidate_Number": 103,
+      "Status": "ranked",
+      "evaluation_seconds": 42.85498150001513
+    },
+    {
+      "Candidate_Number": 104,
+      "Status": "ranked",
+      "evaluation_seconds": 44.64582562498981
+    },
+    {
+      "Candidate_Number": 105,
+      "Status": "ranked",
+      "evaluation_seconds": 58.68494816601742
+    },
+    {
+      "Candidate_Number": 106,
+      "Status": "ranked",
+      "evaluation_seconds": 52.67744887503795
+    },
+    {
+      "Candidate_Number": 107,
+      "Status": "ranked",
+      "evaluation_seconds": 51.22538104199339
+    },
+    {
+      "Candidate_Number": 108,
+      "Status": "ranked",
+      "evaluation_seconds": 63.86469987500459
+    },
+    {
+      "Candidate_Number": 109,
+      "Status": "ranked",
+      "evaluation_seconds": 39.530356667004526
+    },
+    {
+      "Candidate_Number": 110,
+      "Status": "ranked",
+      "evaluation_seconds": 39.33092999999644
+    },
+    {
+      "Candidate_Number": 111,
+      "Status": "ranked",
+      "evaluation_seconds": 55.08715412497986
+    },
+    {
+      "Candidate_Number": 112,
+      "Status": "ranked",
+      "evaluation_seconds": 38.98621166695375
+    },
+    {
+      "Candidate_Number": 113,
+      "Status": "ranked",
+      "evaluation_seconds": 39.00586062500952
+    },
+    {
+      "Candidate_Number": 114,
+      "Status": "ranked",
+      "evaluation_seconds": 54.84841745905578
+    },
+    {
+      "Candidate_Number": 115,
+      "Status": "ranked",
+      "evaluation_seconds": 38.549422374984715
+    },
+    {
+      "Candidate_Number": 116,
+      "Status": "ranked",
+      "evaluation_seconds": 38.58506924996618
+    },
+    {
+      "Candidate_Number": 117,
+      "Status": "ranked",
+      "evaluation_seconds": 55.469926417048555
+    },
+    {
+      "Candidate_Number": 118,
+      "Status": "ranked",
+      "evaluation_seconds": 49.65010704199085
+    },
+    {
+      "Candidate_Number": 119,
+      "Status": "ranked",
+      "evaluation_seconds": 49.74011991696898
+    },
+    {
+      "Candidate_Number": 120,
+      "Status": "ranked",
+      "evaluation_seconds": 73.04732983303256
+    },
+    {
+      "Candidate_Number": 121,
+      "Status": "ranked",
+      "evaluation_seconds": 38.35418858396588
+    },
+    {
+      "Candidate_Number": 122,
+      "Status": "ranked",
+      "evaluation_seconds": 38.46255941700656
+    },
+    {
+      "Candidate_Number": 123,
+      "Status": "ranked",
+      "evaluation_seconds": 50.15365508297691
+    },
+    {
+      "Candidate_Number": 124,
+      "Status": "ranked",
+      "evaluation_seconds": 38.35447562497575
+    },
+    {
+      "Candidate_Number": 125,
+      "Status": "ranked",
+      "evaluation_seconds": 38.34646154101938
+    },
+    {
+      "Candidate_Number": 126,
+      "Status": "ranked",
+      "evaluation_seconds": 49.21477087499807
+    },
+    {
+      "Candidate_Number": 127,
+      "Status": "ranked",
+      "evaluation_seconds": 38.29357845900813
+    },
+    {
+      "Candidate_Number": 128,
+      "Status": "ranked",
+      "evaluation_seconds": 38.460257833008654
+    },
+    {
+      "Candidate_Number": 129,
+      "Status": "ranked",
+      "evaluation_seconds": 49.01209358300548
+    },
+    {
+      "Candidate_Number": 130,
+      "Status": "ranked",
+      "evaluation_seconds": 49.76970737497322
+    },
+    {
+      "Candidate_Number": 131,
+      "Status": "ranked",
+      "evaluation_seconds": 50.001578583032824
+    },
+    {
+      "Candidate_Number": 132,
+      "Status": "ranked",
+      "evaluation_seconds": 74.03059708396904
+    },
+    {
+      "Candidate_Number": 133,
+      "Status": "ranked",
+      "evaluation_seconds": 38.53293270798167
+    },
+    {
+      "Candidate_Number": 134,
+      "Status": "ranked",
+      "evaluation_seconds": 38.73874679103028
+    },
+    {
+      "Candidate_Number": 135,
+      "Status": "ranked",
+      "evaluation_seconds": 47.28072662500199
+    },
+    {
+      "Candidate_Number": 136,
+      "Status": "ranked",
+      "evaluation_seconds": 38.7371044169995
+    },
+    {
+      "Candidate_Number": 137,
+      "Status": "ranked",
+      "evaluation_seconds": 38.795627625018824
+    },
+    {
+      "Candidate_Number": 138,
+      "Status": "ranked",
+      "evaluation_seconds": 47.363170749973506
+    },
+    {
+      "Candidate_Number": 139,
+      "Status": "ranked",
+      "evaluation_seconds": 38.505350499995984
+    },
+    {
+      "Candidate_Number": 140,
+      "Status": "ranked",
+      "evaluation_seconds": 38.45808995800326
+    },
+    {
+      "Candidate_Number": 141,
+      "Status": "ranked",
+      "evaluation_seconds": 45.11388358299155
+    },
+    {
+      "Candidate_Number": 142,
+      "Status": "ranked",
+      "evaluation_seconds": 49.923835541005246
+    },
+    {
+      "Candidate_Number": 143,
+      "Status": "ranked",
+      "evaluation_seconds": 49.91307341697393
+    },
+    {
+      "Candidate_Number": 144,
+      "Status": "ranked",
+      "evaluation_seconds": 74.02142124995589
+    },
+    {
+      "Candidate_Number": 145,
+      "Status": "ranked",
+      "evaluation_seconds": 43.74858466698788
+    },
+    {
+      "Candidate_Number": 146,
+      "Status": "ranked",
+      "evaluation_seconds": 43.84274308395106
+    },
+    {
+      "Candidate_Number": 147,
+      "Status": "ranked",
+      "evaluation_seconds": 57.164014374953695
+    },
+    {
+      "Candidate_Number": 148,
+      "Status": "ranked",
+      "evaluation_seconds": 43.820971874985844
+    },
+    {
+      "Candidate_Number": 149,
+      "Status": "ranked",
+      "evaluation_seconds": 43.84101687499788
+    },
+    {
+      "Candidate_Number": 150,
+      "Status": "ranked",
+      "evaluation_seconds": 58.27140170801431
+    },
+    {
+      "Candidate_Number": 151,
+      "Status": "ranked",
+      "evaluation_seconds": 44.09441254200647
+    },
+    {
+      "Candidate_Number": 152,
+      "Status": "ranked",
+      "evaluation_seconds": 44.04430912499083
+    },
+    {
+      "Candidate_Number": 153,
+      "Status": "ranked",
+      "evaluation_seconds": 57.009718292043544
+    },
+    {
+      "Candidate_Number": 154,
+      "Status": "ranked",
+      "evaluation_seconds": 53.23854504205519
+    },
+    {
+      "Candidate_Number": 155,
+      "Status": "ranked",
+      "evaluation_seconds": 53.06464066595072
+    },
+    {
+      "Candidate_Number": 156,
+      "Status": "ranked",
+      "evaluation_seconds": 67.49875437503215
+    },
+    {
+      "Candidate_Number": 157,
+      "Status": "ranked",
+      "evaluation_seconds": 43.47233825002331
+    },
+    {
+      "Candidate_Number": 158,
+      "Status": "ranked",
+      "evaluation_seconds": 43.89179249998415
+    },
+    {
+      "Candidate_Number": 159,
+      "Status": "ranked",
+      "evaluation_seconds": 59.445781625050586
+    },
+    {
+      "Candidate_Number": 160,
+      "Status": "ranked",
+      "evaluation_seconds": 43.73265416600043
+    },
+    {
+      "Candidate_Number": 161,
+      "Status": "ranked",
+      "evaluation_seconds": 43.86313458299264
+    },
+    {
+      "Candidate_Number": 162,
+      "Status": "ranked",
+      "evaluation_seconds": 58.96205087500857
+    },
+    {
+      "Candidate_Number": 163,
+      "Status": "ranked",
+      "evaluation_seconds": 43.5424200000125
+    },
+    {
+      "Candidate_Number": 164,
+      "Status": "ranked",
+      "evaluation_seconds": 43.30187279195525
+    },
+    {
+      "Candidate_Number": 165,
+      "Status": "ranked",
+      "evaluation_seconds": 58.549556291953195
+    },
+    {
+      "Candidate_Number": 166,
+      "Status": "ranked",
+      "evaluation_seconds": 54.71678591700038
+    },
+    {
+      "Candidate_Number": 167,
+      "Status": "ranked",
+      "evaluation_seconds": 54.8078452500049
+    },
+    {
+      "Candidate_Number": 168,
+      "Status": "ranked",
+      "evaluation_seconds": 78.88642237498425
+    },
+    {
+      "Candidate_Number": 169,
+      "Status": "ranked",
+      "evaluation_seconds": 43.222041208995506
+    },
+    {
+      "Candidate_Number": 170,
+      "Status": "ranked",
+      "evaluation_seconds": 43.30375683301827
+    },
+    {
+      "Candidate_Number": 171,
+      "Status": "ranked",
+      "evaluation_seconds": 58.09599479101598
+    },
+    {
+      "Candidate_Number": 172,
+      "Status": "ranked",
+      "evaluation_seconds": 43.826198082999326
+    },
+    {
+      "Candidate_Number": 173,
+      "Status": "ranked",
+      "evaluation_seconds": 44.68334241694538
+    },
+    {
+      "Candidate_Number": 174,
+      "Status": "ranked",
+      "evaluation_seconds": 56.77941095799906
+    },
+    {
+      "Candidate_Number": 175,
+      "Status": "ranked",
+      "evaluation_seconds": 45.09782412496861
+    },
+    {
+      "Candidate_Number": 176,
+      "Status": "ranked",
+      "evaluation_seconds": 45.27982687501935
+    },
+    {
+      "Candidate_Number": 177,
+      "Status": "ranked",
+      "evaluation_seconds": 54.793568666966166
+    },
+    {
+      "Candidate_Number": 178,
+      "Status": "ranked",
+      "evaluation_seconds": 55.834492333000526
+    },
+    {
+      "Candidate_Number": 179,
+      "Status": "ranked",
+      "evaluation_seconds": 55.64922854094766
+    },
+    {
+      "Candidate_Number": 180,
+      "Status": "ranked",
+      "evaluation_seconds": 80.75769200001378
+    },
+    {
+      "Candidate_Number": 181,
+      "Status": "ranked",
+      "evaluation_seconds": 43.07219845900545
+    },
+    {
+      "Candidate_Number": 182,
+      "Status": "ranked",
+      "evaluation_seconds": 44.25852558395127
+    },
+    {
+      "Candidate_Number": 183,
+      "Status": "ranked",
+      "evaluation_seconds": 53.94641183299245
+    },
+    {
+      "Candidate_Number": 184,
+      "Status": "ranked",
+      "evaluation_seconds": 44.64867562503787
+    },
+    {
+      "Candidate_Number": 185,
+      "Status": "ranked",
+      "evaluation_seconds": 44.50350629200693
+    },
+    {
+      "Candidate_Number": 186,
+      "Status": "ranked",
+      "evaluation_seconds": 54.02506733400514
+    },
+    {
+      "Candidate_Number": 187,
+      "Status": "ranked",
+      "evaluation_seconds": 44.25500462501077
+    },
+    {
+      "Candidate_Number": 188,
+      "Status": "ranked",
+      "evaluation_seconds": 44.707036500039976
+    },
+    {
+      "Candidate_Number": 189,
+      "Status": "ranked",
+      "evaluation_seconds": 52.35269412503112
+    },
+    {
+      "Candidate_Number": 190,
+      "Status": "ranked",
+      "evaluation_seconds": 57.34925504104467
+    },
+    {
+      "Candidate_Number": 191,
+      "Status": "ranked",
+      "evaluation_seconds": 57.261547125002835
+    },
+    {
+      "Candidate_Number": 192,
+      "Status": "ranked",
+      "evaluation_seconds": 83.60742133302847
+    },
+    {
+      "Candidate_Number": 193,
+      "Status": "ranked",
+      "evaluation_seconds": 47.00319912499981
+    },
+    {
+      "Candidate_Number": 194,
+      "Status": "ranked",
+      "evaluation_seconds": 46.83050291700056
+    },
+    {
+      "Candidate_Number": 195,
+      "Status": "ranked",
+      "evaluation_seconds": 59.84676220797701
+    },
+    {
+      "Candidate_Number": 196,
+      "Status": "ranked",
+      "evaluation_seconds": 46.45308662496973
+    },
+    {
+      "Candidate_Number": 197,
+      "Status": "ranked",
+      "evaluation_seconds": 46.51325399999041
+    },
+    {
+      "Candidate_Number": 198,
+      "Status": "ranked",
+      "evaluation_seconds": 59.52519808296347
+    },
+    {
+      "Candidate_Number": 199,
+      "Status": "ranked",
+      "evaluation_seconds": 45.68910954199964
+    },
+    {
+      "Candidate_Number": 200,
+      "Status": "ranked",
+      "evaluation_seconds": 45.22521308303112
+    },
+    {
+      "Candidate_Number": 201,
+      "Status": "ranked",
+      "evaluation_seconds": 57.192915457999334
+    },
+    {
+      "Candidate_Number": 202,
+      "Status": "ranked",
+      "evaluation_seconds": 53.35066541598644
+    },
+    {
+      "Candidate_Number": 203,
+      "Status": "ranked",
+      "evaluation_seconds": 53.51493479096098
+    },
+    {
+      "Candidate_Number": 204,
+      "Status": "ranked",
+      "evaluation_seconds": 67.02081654197536
+    },
+    {
+      "Candidate_Number": 205,
+      "Status": "ranked",
+      "evaluation_seconds": 43.368538750044536
+    },
+    {
+      "Candidate_Number": 206,
+      "Status": "ranked",
+      "evaluation_seconds": 43.591993542038836
+    },
+    {
+      "Candidate_Number": 207,
+      "Status": "ranked",
+      "evaluation_seconds": 58.388219957996625
+    },
+    {
+      "Candidate_Number": 208,
+      "Status": "ranked",
+      "evaluation_seconds": 43.44889854203211
+    },
+    {
+      "Candidate_Number": 209,
+      "Status": "ranked",
+      "evaluation_seconds": 43.58250237500761
+    },
+    {
+      "Candidate_Number": 210,
+      "Status": "ranked",
+      "evaluation_seconds": 58.976845624973066
+    },
+    {
+      "Candidate_Number": 211,
+      "Status": "ranked",
+      "evaluation_seconds": 43.1222814170178
+    },
+    {
+      "Candidate_Number": 212,
+      "Status": "ranked",
+      "evaluation_seconds": 43.52438508300111
+    },
+    {
+      "Candidate_Number": 213,
+      "Status": "ranked",
+      "evaluation_seconds": 59.42185087502003
+    },
+    {
+      "Candidate_Number": 214,
+      "Status": "ranked",
+      "evaluation_seconds": 56.21029695798643
+    },
+    {
+      "Candidate_Number": 215,
+      "Status": "ranked",
+      "evaluation_seconds": 56.51575183303794
+    },
+    {
+      "Candidate_Number": 216,
+      "Status": "ranked",
+      "evaluation_seconds": 82.82790812500753
+    },
+    {
+      "Candidate_Number": 217,
+      "Status": "ranked",
+      "evaluation_seconds": 45.314826207992155
+    },
+    {
+      "Candidate_Number": 218,
+      "Status": "ranked",
+      "evaluation_seconds": 45.2163521249895
+    },
+    {
+      "Candidate_Number": 219,
+      "Status": "ranked",
+      "evaluation_seconds": 58.41813716699835
+    },
+    {
+      "Candidate_Number": 220,
+      "Status": "ranked",
+      "evaluation_seconds": 45.98993420804618
+    },
+    {
+      "Candidate_Number": 221,
+      "Status": "ranked",
+      "evaluation_seconds": 46.246490916004404
+    },
+    {
+      "Candidate_Number": 222,
+      "Status": "ranked",
+      "evaluation_seconds": 58.5788590000011
+    },
+    {
+      "Candidate_Number": 223,
+      "Status": "ranked",
+      "evaluation_seconds": 46.50877358298749
+    },
+    {
+      "Candidate_Number": 224,
+      "Status": "ranked",
+      "evaluation_seconds": 46.03071104205446
+    },
+    {
+      "Candidate_Number": 225,
+      "Status": "ranked",
+      "evaluation_seconds": 57.046265417011455
+    },
+    {
+      "Candidate_Number": 226,
+      "Status": "ranked",
+      "evaluation_seconds": 57.2538506660494
+    },
+    {
+      "Candidate_Number": 227,
+      "Status": "ranked",
+      "evaluation_seconds": 57.36205020803027
+    },
+    {
+      "Candidate_Number": 228,
+      "Status": "ranked",
+      "evaluation_seconds": 83.10263445897726
+    },
+    {
+      "Candidate_Number": 229,
+      "Status": "ranked",
+      "evaluation_seconds": 45.25544312497368
+    },
+    {
+      "Candidate_Number": 230,
+      "Status": "ranked",
+      "evaluation_seconds": 44.2760629170225
+    },
+    {
+      "Candidate_Number": 231,
+      "Status": "ranked",
+      "evaluation_seconds": 55.52532745804638
+    },
+    {
+      "Candidate_Number": 232,
+      "Status": "ranked",
+      "evaluation_seconds": 45.34839383402141
+    },
+    {
+      "Candidate_Number": 233,
+      "Status": "ranked",
+      "evaluation_seconds": 45.407992082997225
+    },
+    {
+      "Candidate_Number": 234,
+      "Status": "ranked",
+      "evaluation_seconds": 54.16893350001192
+    },
+    {
+      "Candidate_Number": 235,
+      "Status": "ranked",
+      "evaluation_seconds": 44.92963562498335
+    },
+    {
+      "Candidate_Number": 236,
+      "Status": "ranked",
+      "evaluation_seconds": 43.80803883302724
+    },
+    {
+      "Candidate_Number": 237,
+      "Status": "ranked",
+      "evaluation_seconds": 50.515832750010304
+    },
+    {
+      "Candidate_Number": 238,
+      "Status": "ranked",
+      "evaluation_seconds": 55.25517637497978
+    },
+    {
+      "Candidate_Number": 239,
+      "Status": "ranked",
+      "evaluation_seconds": 55.23590912501095
+    },
+    {
+      "Candidate_Number": 240,
+      "Status": "ranked",
+      "evaluation_seconds": 79.84244487498654
+    },
+    {
+      "Candidate_Number": 241,
+      "Status": "ranked",
+      "evaluation_seconds": 44.6933446660405
+    },
+    {
+      "Candidate_Number": 242,
+      "Status": "ranked",
+      "evaluation_seconds": 44.60115808295086
+    },
+    {
+      "Candidate_Number": 243,
+      "Status": "ranked",
+      "evaluation_seconds": 57.89229583297856
+    },
+    {
+      "Candidate_Number": 244,
+      "Status": "ranked",
+      "evaluation_seconds": 44.34841979201883
+    },
+    {
+      "Candidate_Number": 245,
+      "Status": "ranked",
+      "evaluation_seconds": 44.43370904098265
+    },
+    {
+      "Candidate_Number": 246,
+      "Status": "ranked",
+      "evaluation_seconds": 56.81087350001326
+    },
+    {
+      "Candidate_Number": 247,
+      "Status": "ranked",
+      "evaluation_seconds": 44.524979915993754
+    },
+    {
+      "Candidate_Number": 248,
+      "Status": "ranked",
+      "evaluation_seconds": 44.33187341602752
+    },
+    {
+      "Candidate_Number": 249,
+      "Status": "ranked",
+      "evaluation_seconds": 57.28127425001003
+    },
+    {
+      "Candidate_Number": 250,
+      "Status": "ranked",
+      "evaluation_seconds": 53.105255707981996
+    },
+    {
+      "Candidate_Number": 251,
+      "Status": "ranked",
+      "evaluation_seconds": 52.99344787502196
+    },
+    {
+      "Candidate_Number": 252,
+      "Status": "ranked",
+      "evaluation_seconds": 66.52991037501488
+    },
+    {
+      "Candidate_Number": 253,
+      "Status": "ranked",
+      "evaluation_seconds": 43.32464391703252
+    },
+    {
+      "Candidate_Number": 254,
+      "Status": "ranked",
+      "evaluation_seconds": 43.549695749999955
+    },
+    {
+      "Candidate_Number": 255,
+      "Status": "ranked",
+      "evaluation_seconds": 58.06340529100271
+    },
+    {
+      "Candidate_Number": 256,
+      "Status": "ranked",
+      "evaluation_seconds": 43.37474474997725
+    },
+    {
+      "Candidate_Number": 257,
+      "Status": "ranked",
+      "evaluation_seconds": 43.458650332991965
+    },
+    {
+      "Candidate_Number": 258,
+      "Status": "ranked",
+      "evaluation_seconds": 60.05139187496388
+    },
+    {
+      "Candidate_Number": 259,
+      "Status": "ranked",
+      "evaluation_seconds": 44.09086945798481
+    },
+    {
+      "Candidate_Number": 260,
+      "Status": "ranked",
+      "evaluation_seconds": 44.850824249966536
+    },
+    {
+      "Candidate_Number": 261,
+      "Status": "ranked",
+      "evaluation_seconds": 61.00518675002968
+    },
+    {
+      "Candidate_Number": 262,
+      "Status": "ranked",
+      "evaluation_seconds": 57.3238707499695
+    },
+    {
+      "Candidate_Number": 263,
+      "Status": "ranked",
+      "evaluation_seconds": 57.55258241703268
+    },
+    {
+      "Candidate_Number": 264,
+      "Status": "ranked",
+      "evaluation_seconds": 80.615337833995
+    },
+    {
+      "Candidate_Number": 265,
+      "Status": "ranked",
+      "evaluation_seconds": 45.012567125028
+    },
+    {
+      "Candidate_Number": 266,
+      "Status": "ranked",
+      "evaluation_seconds": 44.90996591700241
+    },
+    {
+      "Candidate_Number": 267,
+      "Status": "ranked",
+      "evaluation_seconds": 56.87621841701912
+    },
+    {
+      "Candidate_Number": 268,
+      "Status": "ranked",
+      "evaluation_seconds": 44.11874841700774
+    },
+    {
+      "Candidate_Number": 269,
+      "Status": "ranked",
+      "evaluation_seconds": 44.029952083015814
+    },
+    {
+      "Candidate_Number": 270,
+      "Status": "ranked",
+      "evaluation_seconds": 54.21147066599224
+    },
+    {
+      "Candidate_Number": 271,
+      "Status": "ranked",
+      "evaluation_seconds": 43.81943695800146
+    },
+    {
+      "Candidate_Number": 272,
+      "Status": "ranked",
+      "evaluation_seconds": 43.61896045797039
+    },
+    {
+      "Candidate_Number": 273,
+      "Status": "ranked",
+      "evaluation_seconds": 52.55933470802847
+    },
+    {
+      "Candidate_Number": 274,
+      "Status": "ranked",
+      "evaluation_seconds": 54.956833874981385
+    },
+    {
+      "Candidate_Number": 275,
+      "Status": "ranked",
+      "evaluation_seconds": 54.88197541597765
+    },
+    {
+      "Candidate_Number": 276,
+      "Status": "ranked",
+      "evaluation_seconds": 79.03219945903402
+    },
+    {
+      "Candidate_Number": 277,
+      "Status": "ranked",
+      "evaluation_seconds": 43.231848625000566
+    },
+    {
+      "Candidate_Number": 278,
+      "Status": "ranked",
+      "evaluation_seconds": 43.38740320899524
+    },
+    {
+      "Candidate_Number": 279,
+      "Status": "ranked",
+      "evaluation_seconds": 51.69404387503164
+    },
+    {
+      "Candidate_Number": 280,
+      "Status": "ranked",
+      "evaluation_seconds": 42.99389316700399
+    },
+    {
+      "Candidate_Number": 281,
+      "Status": "ranked",
+      "evaluation_seconds": 42.994630000030156
+    },
+    {
+      "Candidate_Number": 282,
+      "Status": "ranked",
+      "evaluation_seconds": 52.12211912497878
+    },
+    {
+      "Candidate_Number": 283,
+      "Status": "ranked",
+      "evaluation_seconds": 42.9096333750058
+    },
+    {
+      "Candidate_Number": 284,
+      "Status": "ranked",
+      "evaluation_seconds": 42.873561916989274
+    },
+    {
+      "Candidate_Number": 285,
+      "Status": "ranked",
+      "evaluation_seconds": 48.37393087497912
+    },
+    {
+      "Candidate_Number": 286,
+      "Status": "ranked",
+      "evaluation_seconds": 54.614203250035644
+    },
+    {
+      "Candidate_Number": 287,
+      "Status": "ranked",
+      "evaluation_seconds": 54.59410129202297
+    },
+    {
+      "Candidate_Number": 288,
+      "Status": "ranked",
+      "evaluation_seconds": 78.60910837503616
+    },
+    {
+      "Candidate_Number": 289,
+      "Status": "ranked",
+      "evaluation_seconds": 42.138245708018076
+    },
+    {
+      "Candidate_Number": 290,
+      "Status": "ranked",
+      "evaluation_seconds": 42.06444979197113
+    },
+    {
+      "Candidate_Number": 291,
+      "Status": "ranked",
+      "evaluation_seconds": 57.33331137499772
+    },
+    {
+      "Candidate_Number": 292,
+      "Status": "ranked",
+      "evaluation_seconds": 41.79984254098963
+    },
+    {
+      "Candidate_Number": 293,
+      "Status": "ranked",
+      "evaluation_seconds": 41.951116249954794
+    },
+    {
+      "Candidate_Number": 294,
+      "Status": "ranked",
+      "evaluation_seconds": 56.78246283403132
+    },
+    {
+      "Candidate_Number": 295,
+      "Status": "ranked",
+      "evaluation_seconds": 41.61278666701401
+    },
+    {
+      "Candidate_Number": 296,
+      "Status": "ranked",
+      "evaluation_seconds": 41.692097584018484
+    },
+    {
+      "Candidate_Number": 297,
+      "Status": "ranked",
+      "evaluation_seconds": 57.108462624950334
+    },
+    {
+      "Candidate_Number": 298,
+      "Status": "ranked",
+      "evaluation_seconds": 57.65631604200462
+    },
+    {
+      "Candidate_Number": 299,
+      "Status": "ranked",
+      "evaluation_seconds": 57.794863250048365
+    },
+    {
+      "Candidate_Number": 300,
+      "Status": "ranked",
+      "evaluation_seconds": 74.0499751670286
+    },
+    {
+      "Candidate_Number": 301,
+      "Status": "ranked",
+      "evaluation_seconds": 40.32564395898953
+    },
+    {
+      "Candidate_Number": 302,
+      "Status": "ranked",
+      "evaluation_seconds": 40.540449500025716
+    },
+    {
+      "Candidate_Number": 303,
+      "Status": "ranked",
+      "evaluation_seconds": 58.43050462502288
+    },
+    {
+      "Candidate_Number": 304,
+      "Status": "ranked",
+      "evaluation_seconds": 40.49495062499773
+    },
+    {
+      "Candidate_Number": 305,
+      "Status": "ranked",
+      "evaluation_seconds": 40.49692970799515
+    },
+    {
+      "Candidate_Number": 306,
+      "Status": "ranked",
+      "evaluation_seconds": 59.30431687500095
+    },
+    {
+      "Candidate_Number": 307,
+      "Status": "ranked",
+      "evaluation_seconds": 40.109317624999676
+    },
+    {
+      "Candidate_Number": 308,
+      "Status": "ranked",
+      "evaluation_seconds": 40.22378387500066
+    },
+    {
+      "Candidate_Number": 309,
+      "Status": "ranked",
+      "evaluation_seconds": 57.28653983300319
+    },
+    {
+      "Candidate_Number": 310,
+      "Status": "ranked",
+      "evaluation_seconds": 59.80532729101833
+    },
+    {
+      "Candidate_Number": 311,
+      "Status": "ranked",
+      "evaluation_seconds": 59.75829937495291
+    },
+    {
+      "Candidate_Number": 312,
+      "Status": "ranked",
+      "evaluation_seconds": 88.11445258301683
+    },
+    {
+      "Candidate_Number": 313,
+      "Status": "ranked",
+      "evaluation_seconds": 40.14796479098732
+    },
+    {
+      "Candidate_Number": 314,
+      "Status": "ranked",
+      "evaluation_seconds": 40.01628437504405
+    },
+    {
+      "Candidate_Number": 315,
+      "Status": "ranked",
+      "evaluation_seconds": 53.875990582979284
+    },
+    {
+      "Candidate_Number": 316,
+      "Status": "ranked",
+      "evaluation_seconds": 40.19067954196362
+    },
+    {
+      "Candidate_Number": 317,
+      "Status": "ranked",
+      "evaluation_seconds": 40.26448083302239
+    },
+    {
+      "Candidate_Number": 318,
+      "Status": "ranked",
+      "evaluation_seconds": 52.61229541600915
+    },
+    {
+      "Candidate_Number": 319,
+      "Status": "ranked",
+      "evaluation_seconds": 40.14534837502288
+    },
+    {
+      "Candidate_Number": 320,
+      "Status": "ranked",
+      "evaluation_seconds": 40.25304387498181
+    },
+    {
+      "Candidate_Number": 321,
+      "Status": "ranked",
+      "evaluation_seconds": 52.70302795799216
+    },
+    {
+      "Candidate_Number": 322,
+      "Status": "ranked",
+      "evaluation_seconds": 60.04159224999603
+    },
+    {
+      "Candidate_Number": 323,
+      "Status": "ranked",
+      "evaluation_seconds": 59.97818820801331
+    },
+    {
+      "Candidate_Number": 324,
+      "Status": "ranked",
+      "evaluation_seconds": 88.18046900001355
+    },
+    {
+      "Candidate_Number": 325,
+      "Status": "ranked",
+      "evaluation_seconds": 40.21464779204689
+    },
+    {
+      "Candidate_Number": 326,
+      "Status": "ranked",
+      "evaluation_seconds": 40.80263595900033
+    },
+    {
+      "Candidate_Number": 327,
+      "Status": "ranked",
+      "evaluation_seconds": 50.38300120900385
+    },
+    {
+      "Candidate_Number": 328,
+      "Status": "ranked",
+      "evaluation_seconds": 39.89765404199716
+    },
+    {
+      "Candidate_Number": 329,
+      "Status": "ranked",
+      "evaluation_seconds": 40.01181454199832
+    },
+    {
+      "Candidate_Number": 330,
+      "Status": "ranked",
+      "evaluation_seconds": 50.207291707978584
+    },
+    {
+      "Candidate_Number": 331,
+      "Status": "ranked",
+      "evaluation_seconds": 40.09514470800059
+    },
+    {
+      "Candidate_Number": 332,
+      "Status": "ranked",
+      "evaluation_seconds": 40.361980958026834
+    },
+    {
+      "Candidate_Number": 333,
+      "Status": "ranked",
+      "evaluation_seconds": 51.28555229201447
+    },
+    {
+      "Candidate_Number": 334,
+      "Status": "ranked",
+      "evaluation_seconds": 59.67408175003948
+    },
+    {
+      "Candidate_Number": 335,
+      "Status": "ranked",
+      "evaluation_seconds": 59.69293383404147
+    },
+    {
+      "Candidate_Number": 336,
+      "Status": "ranked",
+      "evaluation_seconds": 87.2579801249667
+    },
+    {
+      "Candidate_Number": 337,
+      "Status": "ranked",
+      "evaluation_seconds": 41.676559416984674
+    },
+    {
+      "Candidate_Number": 338,
+      "Status": "ranked",
+      "evaluation_seconds": 41.47724645899143
+    },
+    {
+      "Candidate_Number": 339,
+      "Status": "ranked",
+      "evaluation_seconds": 55.60301141702803
+    },
+    {
+      "Candidate_Number": 340,
+      "Status": "ranked",
+      "evaluation_seconds": 41.43687908403808
+    },
+    {
+      "Candidate_Number": 341,
+      "Status": "ranked",
+      "evaluation_seconds": 41.57044537505135
+    },
+    {
+      "Candidate_Number": 342,
+      "Status": "ranked",
+      "evaluation_seconds": 56.59303987497697
+    },
+    {
+      "Candidate_Number": 343,
+      "Status": "ranked",
+      "evaluation_seconds": 41.42669749999186
+    },
+    {
+      "Candidate_Number": 344,
+      "Status": "ranked",
+      "evaluation_seconds": 41.68223433295498
+    },
+    {
+      "Candidate_Number": 345,
+      "Status": "ranked",
+      "evaluation_seconds": 58.33739612501813
+    },
+    {
+      "Candidate_Number": 346,
+      "Status": "ranked",
+      "evaluation_seconds": 58.66749795799842
+    },
+    {
+      "Candidate_Number": 347,
+      "Status": "ranked",
+      "evaluation_seconds": 58.67130033305148
+    },
+    {
+      "Candidate_Number": 348,
+      "Status": "ranked",
+      "evaluation_seconds": 73.6399635419948
+    },
+    {
+      "Candidate_Number": 349,
+      "Status": "ranked",
+      "evaluation_seconds": 41.04439133295091
+    },
+    {
+      "Candidate_Number": 350,
+      "Status": "ranked",
+      "evaluation_seconds": 41.25702420802554
+    },
+    {
+      "Candidate_Number": 351,
+      "Status": "ranked",
+      "evaluation_seconds": 60.290629750001244
+    },
+    {
+      "Candidate_Number": 352,
+      "Status": "ranked",
+      "evaluation_seconds": 40.384560374950524
+    },
+    {
+      "Candidate_Number": 353,
+      "Status": "ranked",
+      "evaluation_seconds": 40.4754838750232
+    },
+    {
+      "Candidate_Number": 354,
+      "Status": "ranked",
+      "evaluation_seconds": 58.225793624995276
+    },
+    {
+      "Candidate_Number": 355,
+      "Status": "ranked",
+      "evaluation_seconds": 40.575105916999746
+    },
+    {
+      "Candidate_Number": 356,
+      "Status": "ranked",
+      "evaluation_seconds": 40.505143208021764
+    },
+    {
+      "Candidate_Number": 357,
+      "Status": "ranked",
+      "evaluation_seconds": 56.400759666983504
+    },
+    {
+      "Candidate_Number": 358,
+      "Status": "ranked",
+      "evaluation_seconds": 60.040779083035886
+    },
+    {
+      "Candidate_Number": 359,
+      "Status": "ranked",
+      "evaluation_seconds": 59.96076870796969
+    },
+    {
+      "Candidate_Number": 360,
+      "Status": "ranked",
+      "evaluation_seconds": 87.15523570898222
+    },
+    {
+      "Candidate_Number": 361,
+      "Status": "ranked",
+      "evaluation_seconds": 40.20585862500593
+    },
+    {
+      "Candidate_Number": 362,
+      "Status": "ranked",
+      "evaluation_seconds": 40.278492541983724
+    },
+    {
+      "Candidate_Number": 363,
+      "Status": "ranked",
+      "evaluation_seconds": 51.707769290951546
+    },
+    {
+      "Candidate_Number": 364,
+      "Status": "ranked",
+      "evaluation_seconds": 39.89935337501811
+    },
+    {
+      "Candidate_Number": 365,
+      "Status": "ranked",
+      "evaluation_seconds": 39.99556016700808
+    },
+    {
+      "Candidate_Number": 366,
+      "Status": "ranked",
+      "evaluation_seconds": 52.68891608301783
+    },
+    {
+      "Candidate_Number": 367,
+      "Status": "ranked",
+      "evaluation_seconds": 40.09213995898608
+    },
+    {
+      "Candidate_Number": 368,
+      "Status": "ranked",
+      "evaluation_seconds": 40.09779808297753
+    },
+    {
+      "Candidate_Number": 369,
+      "Status": "ranked",
+      "evaluation_seconds": 51.52436945796944
+    },
+    {
+      "Candidate_Number": 370,
+      "Status": "ranked",
+      "evaluation_seconds": 59.66954645799706
+    },
+    {
+      "Candidate_Number": 371,
+      "Status": "ranked",
+      "evaluation_seconds": 59.8039945839555
+    },
+    {
+      "Candidate_Number": 372,
+      "Status": "ranked",
+      "evaluation_seconds": 86.09988987498218
+    },
+    {
+      "Candidate_Number": 373,
+      "Status": "ranked",
+      "evaluation_seconds": 40.036831540986896
+    },
+    {
+      "Candidate_Number": 374,
+      "Status": "ranked",
+      "evaluation_seconds": 40.73299783299444
+    },
+    {
+      "Candidate_Number": 375,
+      "Status": "ranked",
+      "evaluation_seconds": 49.799372375011444
+    },
+    {
+      "Candidate_Number": 376,
+      "Status": "ranked",
+      "evaluation_seconds": 39.93516691704281
+    },
+    {
+      "Candidate_Number": 377,
+      "Status": "ranked",
+      "evaluation_seconds": 40.44228287501028
+    },
+    {
+      "Candidate_Number": 378,
+      "Status": "ranked",
+      "evaluation_seconds": 50.20891979103908
+    },
+    {
+      "Candidate_Number": 379,
+      "Status": "ranked",
+      "evaluation_seconds": 39.785428041999694
+    },
+    {
+      "Candidate_Number": 380,
+      "Status": "ranked",
+      "evaluation_seconds": 40.35271741700126
+    },
+    {
+      "Candidate_Number": 381,
+      "Status": "ranked",
+      "evaluation_seconds": 51.05488441698253
+    },
+    {
+      "Candidate_Number": 382,
+      "Status": "ranked",
+      "evaluation_seconds": 59.730066500022076
+    },
+    {
+      "Candidate_Number": 383,
+      "Status": "ranked",
+      "evaluation_seconds": 59.78249979100656
+    },
+    {
+      "Candidate_Number": 384,
+      "Status": "ranked",
+      "evaluation_seconds": 86.61084358301014
+    },
+    {
+      "Candidate_Number": 385,
+      "Status": "ranked",
+      "evaluation_seconds": 41.72282583400374
+    },
+    {
+      "Candidate_Number": 386,
+      "Status": "ranked",
+      "evaluation_seconds": 41.90754449996166
+    },
+    {
+      "Candidate_Number": 387,
+      "Status": "ranked",
+      "evaluation_seconds": 56.383648374991026
+    },
+    {
+      "Candidate_Number": 388,
+      "Status": "ranked",
+      "evaluation_seconds": 41.998641167010646
+    },
+    {
+      "Candidate_Number": 389,
+      "Status": "ranked",
+      "evaluation_seconds": 42.066549749986734
+    },
+    {
+      "Candidate_Number": 390,
+      "Status": "ranked",
+      "evaluation_seconds": 56.21400524995988
+    },
+    {
+      "Candidate_Number": 391,
+      "Status": "ranked",
+      "evaluation_seconds": 42.002389499975834
+    },
+    {
+      "Candidate_Number": 392,
+      "Status": "ranked",
+      "evaluation_seconds": 41.70481775002554
+    },
+    {
+      "Candidate_Number": 393,
+      "Status": "ranked",
+      "evaluation_seconds": 56.77150504203746
+    },
+    {
+      "Candidate_Number": 394,
+      "Status": "ranked",
+      "evaluation_seconds": 57.88705141696846
+    },
+    {
+      "Candidate_Number": 395,
+      "Status": "ranked",
+      "evaluation_seconds": 57.958544332999736
+    },
+    {
+      "Candidate_Number": 396,
+      "Status": "ranked",
+      "evaluation_seconds": 72.34312583395513
+    },
+    {
+      "Candidate_Number": 397,
+      "Status": "ranked",
+      "evaluation_seconds": 40.10125937499106
+    },
+    {
+      "Candidate_Number": 398,
+      "Status": "ranked",
+      "evaluation_seconds": 40.03005566704087
+    },
+    {
+      "Candidate_Number": 399,
+      "Status": "ranked",
+      "evaluation_seconds": 57.31432204198791
+    },
+    {
+      "Candidate_Number": 400,
+      "Status": "ranked",
+      "evaluation_seconds": 39.820914415991865
+    },
+    {
+      "Candidate_Number": 401,
+      "Status": "ranked",
+      "evaluation_seconds": 39.983490749960765
+    },
+    {
+      "Candidate_Number": 402,
+      "Status": "ranked",
+      "evaluation_seconds": 56.11995962500805
+    },
+    {
+      "Candidate_Number": 403,
+      "Status": "ranked",
+      "evaluation_seconds": 39.69536070903996
+    },
+    {
+      "Candidate_Number": 404,
+      "Status": "ranked",
+      "evaluation_seconds": 39.929032291984186
+    },
+    {
+      "Candidate_Number": 405,
+      "Status": "ranked",
+      "evaluation_seconds": 54.618036541040055
+    },
+    {
+      "Candidate_Number": 406,
+      "Status": "ranked",
+      "evaluation_seconds": 60.05355949996738
+    },
+    {
+      "Candidate_Number": 407,
+      "Status": "ranked",
+      "evaluation_seconds": 60.1468698339886
+    },
+    {
+      "Candidate_Number": 408,
+      "Status": "ranked",
+      "evaluation_seconds": 85.96229779202258
+    },
+    {
+      "Candidate_Number": 409,
+      "Status": "ranked",
+      "evaluation_seconds": 40.32925762498053
+    },
+    {
+      "Candidate_Number": 410,
+      "Status": "ranked",
+      "evaluation_seconds": 40.19676245894516
+    },
+    {
+      "Candidate_Number": 411,
+      "Status": "ranked",
+      "evaluation_seconds": 52.1237605829956
+    },
+    {
+      "Candidate_Number": 412,
+      "Status": "ranked",
+      "evaluation_seconds": 40.15729983401252
+    },
+    {
+      "Candidate_Number": 413,
+      "Status": "ranked",
+      "evaluation_seconds": 40.21567908296129
+    },
+    {
+      "Candidate_Number": 414,
+      "Status": "ranked",
+      "evaluation_seconds": 50.340496583958156
+    },
+    {
+      "Candidate_Number": 415,
+      "Status": "ranked",
+      "evaluation_seconds": 40.15191145899007
+    },
+    {
+      "Candidate_Number": 416,
+      "Status": "ranked",
+      "evaluation_seconds": 40.19306875002803
+    },
+    {
+      "Candidate_Number": 417,
+      "Status": "ranked",
+      "evaluation_seconds": 52.36405912501505
+    },
+    {
+      "Candidate_Number": 418,
+      "Status": "ranked",
+      "evaluation_seconds": 60.0156136660371
+    },
+    {
+      "Candidate_Number": 419,
+      "Status": "ranked",
+      "evaluation_seconds": 60.133067917020526
+    },
+    {
+      "Candidate_Number": 420,
+      "Status": "ranked",
+      "evaluation_seconds": 85.91488229198148
+    },
+    {
+      "Candidate_Number": 421,
+      "Status": "ranked",
+      "evaluation_seconds": 40.212713124987204
+    },
+    {
+      "Candidate_Number": 422,
+      "Status": "ranked",
+      "evaluation_seconds": 40.46837812499143
+    },
+    {
+      "Candidate_Number": 423,
+      "Status": "ranked",
+      "evaluation_seconds": 48.47447704197839
+    },
+    {
+      "Candidate_Number": 424,
+      "Status": "ranked",
+      "evaluation_seconds": 40.067202500009444
+    },
+    {
+      "Candidate_Number": 425,
+      "Status": "ranked",
+      "evaluation_seconds": 40.15185000002384
+    },
+    {
+      "Candidate_Number": 426,
+      "Status": "ranked",
+      "evaluation_seconds": 47.645532082999125
+    },
+    {
+      "Candidate_Number": 427,
+      "Status": "ranked",
+      "evaluation_seconds": 40.13131141697522
+    },
+    {
+      "Candidate_Number": 428,
+      "Status": "ranked",
+      "evaluation_seconds": 39.925474749994464
+    },
+    {
+      "Candidate_Number": 429,
+      "Status": "ranked",
+      "evaluation_seconds": 49.847896999970544
+    },
+    {
+      "Candidate_Number": 430,
+      "Status": "ranked",
+      "evaluation_seconds": 59.80248366697924
+    },
+    {
+      "Candidate_Number": 431,
+      "Status": "ranked",
+      "evaluation_seconds": 59.83407433400862
+    },
+    {
+      "Candidate_Number": 432,
+      "Status": "ranked",
+      "evaluation_seconds": 85.45125500002177
+    },
+    {
+      "Candidate_Number": 433,
+      "Status": "ranked",
+      "evaluation_seconds": 46.010100957995746
+    },
+    {
+      "Candidate_Number": 434,
+      "Status": "ranked",
+      "evaluation_seconds": 46.083981750009116
+    },
+    {
+      "Candidate_Number": 435,
+      "Status": "ranked",
+      "evaluation_seconds": 61.594573292008135
+    },
+    {
+      "Candidate_Number": 436,
+      "Status": "ranked",
+      "evaluation_seconds": 45.9694629170117
+    },
+    {
+      "Candidate_Number": 437,
+      "Status": "ranked",
+      "evaluation_seconds": 46.06287358305417
+    },
+    {
+      "Candidate_Number": 438,
+      "Status": "ranked",
+      "evaluation_seconds": 60.55685283301864
+    },
+    {
+      "Candidate_Number": 439,
+      "Status": "ranked",
+      "evaluation_seconds": 46.047176374995615
+    },
+    {
+      "Candidate_Number": 440,
+      "Status": "ranked",
+      "evaluation_seconds": 45.85798462497769
+    },
+    {
+      "Candidate_Number": 441,
+      "Status": "ranked",
+      "evaluation_seconds": 61.439449916011654
+    },
+    {
+      "Candidate_Number": 442,
+      "Status": "ranked",
+      "evaluation_seconds": 62.05773095798213
+    },
+    {
+      "Candidate_Number": 443,
+      "Status": "ranked",
+      "evaluation_seconds": 61.99098733300343
+    },
+    {
+      "Candidate_Number": 444,
+      "Status": "ranked",
+      "evaluation_seconds": 78.21773741603829
+    },
+    {
+      "Candidate_Number": 445,
+      "Status": "ranked",
+      "evaluation_seconds": 44.59282770799473
+    },
+    {
+      "Candidate_Number": 446,
+      "Status": "ranked",
+      "evaluation_seconds": 44.59396879200358
+    },
+    {
+      "Candidate_Number": 447,
+      "Status": "ranked",
+      "evaluation_seconds": 62.32618083397392
+    },
+    {
+      "Candidate_Number": 448,
+      "Status": "ranked",
+      "evaluation_seconds": 44.558766208007
+    },
+    {
+      "Candidate_Number": 449,
+      "Status": "ranked",
+      "evaluation_seconds": 44.68049962504301
+    },
+    {
+      "Candidate_Number": 450,
+      "Status": "ranked",
+      "evaluation_seconds": 60.759551500028465
+    },
+    {
+      "Candidate_Number": 451,
+      "Status": "ranked",
+      "evaluation_seconds": 44.480372667021584
+    },
+    {
+      "Candidate_Number": 452,
+      "Status": "ranked",
+      "evaluation_seconds": 44.644770250015426
+    },
+    {
+      "Candidate_Number": 453,
+      "Status": "ranked",
+      "evaluation_seconds": 62.0031722499989
+    },
+    {
+      "Candidate_Number": 454,
+      "Status": "ranked",
+      "evaluation_seconds": 64.36998295801459
+    },
+    {
+      "Candidate_Number": 455,
+      "Status": "ranked",
+      "evaluation_seconds": 64.67413616599515
+    },
+    {
+      "Candidate_Number": 456,
+      "Status": "ranked",
+      "evaluation_seconds": 92.26941987499595
+    },
+    {
+      "Candidate_Number": 457,
+      "Status": "ranked",
+      "evaluation_seconds": 44.69891541602556
+    },
+    {
+      "Candidate_Number": 458,
+      "Status": "ranked",
+      "evaluation_seconds": 45.08436099998653
+    },
+    {
+      "Candidate_Number": 459,
+      "Status": "ranked",
+      "evaluation_seconds": 57.17233270796714
+    },
+    {
+      "Candidate_Number": 460,
+      "Status": "ranked",
+      "evaluation_seconds": 45.01328666700283
+    },
+    {
+      "Candidate_Number": 461,
+      "Status": "ranked",
+      "evaluation_seconds": 44.97685683297459
+    },
+    {
+      "Candidate_Number": 462,
+      "Status": "ranked",
+      "evaluation_seconds": 57.14614091697149
+    },
+    {
+      "Candidate_Number": 463,
+      "Status": "ranked",
+      "evaluation_seconds": 44.55316841596505
+    },
+    {
+      "Candidate_Number": 464,
+      "Status": "ranked",
+      "evaluation_seconds": 45.01364412502153
+    },
+    {
+      "Candidate_Number": 465,
+      "Status": "ranked",
+      "evaluation_seconds": 57.61703179200413
+    },
+    {
+      "Candidate_Number": 466,
+      "Status": "ranked",
+      "evaluation_seconds": 64.58314216701547
+    },
+    {
+      "Candidate_Number": 467,
+      "Status": "ranked",
+      "evaluation_seconds": 64.63338945899159
+    },
+    {
+      "Candidate_Number": 468,
+      "Status": "ranked",
+      "evaluation_seconds": 93.03956000000471
+    },
+    {
+      "Candidate_Number": 469,
+      "Status": "ranked",
+      "evaluation_seconds": 44.70956195803592
+    },
+    {
+      "Candidate_Number": 470,
+      "Status": "ranked",
+      "evaluation_seconds": 44.89905875001568
+    },
+    {
+      "Candidate_Number": 471,
+      "Status": "ranked",
+      "evaluation_seconds": 54.01383004197851
+    },
+    {
+      "Candidate_Number": 472,
+      "Status": "ranked",
+      "evaluation_seconds": 44.5946111670346
+    },
+    {
+      "Candidate_Number": 473,
+      "Status": "ranked",
+      "evaluation_seconds": 44.76495637500193
+    },
+    {
+      "Candidate_Number": 474,
+      "Status": "ranked",
+      "evaluation_seconds": 56.28753549995599
+    },
+    {
+      "Candidate_Number": 475,
+      "Status": "ranked",
+      "evaluation_seconds": 44.486533333023544
+    },
+    {
+      "Candidate_Number": 476,
+      "Status": "ranked",
+      "evaluation_seconds": 44.610718332987744
+    },
+    {
+      "Candidate_Number": 477,
+      "Status": "ranked",
+      "evaluation_seconds": 56.12222429201938
+    },
+    {
+      "Candidate_Number": 478,
+      "Status": "ranked",
+      "evaluation_seconds": 63.87291037500836
+    },
+    {
+      "Candidate_Number": 479,
+      "Status": "ranked",
+      "evaluation_seconds": 64.07179083296796
+    },
+    {
+      "Candidate_Number": 480,
+      "Status": "ranked",
+      "evaluation_seconds": 91.66783737496007
+    },
+    {
+      "Candidate_Number": 481,
+      "Status": "ranked",
+      "evaluation_seconds": 45.94942566700047
+    },
+    {
+      "Candidate_Number": 482,
+      "Status": "ranked",
+      "evaluation_seconds": 45.88968666602159
+    },
+    {
+      "Candidate_Number": 483,
+      "Status": "ranked",
+      "evaluation_seconds": 61.26981133403024
+    },
+    {
+      "Candidate_Number": 484,
+      "Status": "ranked",
+      "evaluation_seconds": 46.01983783300966
+    },
+    {
+      "Candidate_Number": 485,
+      "Status": "ranked",
+      "evaluation_seconds": 46.18943012499949
+    },
+    {
+      "Candidate_Number": 486,
+      "Status": "ranked",
+      "evaluation_seconds": 61.62532591598574
+    },
+    {
+      "Candidate_Number": 487,
+      "Status": "ranked",
+      "evaluation_seconds": 46.05632287496701
+    },
+    {
+      "Candidate_Number": 488,
+      "Status": "ranked",
+      "evaluation_seconds": 46.01210074999835
+    },
+    {
+      "Candidate_Number": 489,
+      "Status": "ranked",
+      "evaluation_seconds": 60.33147654199274
+    },
+    {
+      "Candidate_Number": 490,
+      "Status": "ranked",
+      "evaluation_seconds": 62.15037379099522
+    },
+    {
+      "Candidate_Number": 491,
+      "Status": "ranked",
+      "evaluation_seconds": 62.11147066700505
+    },
+    {
+      "Candidate_Number": 492,
+      "Status": "ranked",
+      "evaluation_seconds": 77.63438666600268
+    },
+    {
+      "Candidate_Number": 493,
+      "Status": "ranked",
+      "evaluation_seconds": 44.49296358297579
+    },
+    {
+      "Candidate_Number": 494,
+      "Status": "ranked",
+      "evaluation_seconds": 44.37052983301692
+    },
+    {
+      "Candidate_Number": 495,
+      "Status": "ranked",
+      "evaluation_seconds": 59.85711679101223
+    },
+    {
+      "Candidate_Number": 496,
+      "Status": "ranked",
+      "evaluation_seconds": 44.36005054198904
+    },
+    {
+      "Candidate_Number": 497,
+      "Status": "ranked",
+      "evaluation_seconds": 44.43879179196665
+    },
+    {
+      "Candidate_Number": 498,
+      "Status": "ranked",
+      "evaluation_seconds": 59.535593540989794
+    },
+    {
+      "Candidate_Number": 499,
+      "Status": "ranked",
+      "evaluation_seconds": 44.17412587499712
+    },
+    {
+      "Candidate_Number": 500,
+      "Status": "ranked",
+      "evaluation_seconds": 44.47442170797149
+    },
+    {
+      "Candidate_Number": 501,
+      "Status": "ranked",
+      "evaluation_seconds": 59.74904429103481
+    },
+    {
+      "Candidate_Number": 502,
+      "Status": "ranked",
+      "evaluation_seconds": 64.02177991694771
+    },
+    {
+      "Candidate_Number": 503,
+      "Status": "ranked",
+      "evaluation_seconds": 64.09731258399552
+    },
+    {
+      "Candidate_Number": 504,
+      "Status": "ranked",
+      "evaluation_seconds": 92.28496116702445
+    },
+    {
+      "Candidate_Number": 505,
+      "Status": "ranked",
+      "evaluation_seconds": 44.15184112498537
+    },
+    {
+      "Candidate_Number": 506,
+      "Status": "ranked",
+      "evaluation_seconds": 44.36404495802708
+    },
+    {
+      "Candidate_Number": 507,
+      "Status": "ranked",
+      "evaluation_seconds": 55.669812624983024
+    },
+    {
+      "Candidate_Number": 508,
+      "Status": "ranked",
+      "evaluation_seconds": 44.288907875015866
+    },
+    {
+      "Candidate_Number": 509,
+      "Status": "ranked",
+      "evaluation_seconds": 44.26329600001918
+    },
+    {
+      "Candidate_Number": 510,
+      "Status": "ranked",
+      "evaluation_seconds": 55.89229529199656
+    },
+    {
+      "Candidate_Number": 511,
+      "Status": "ranked",
+      "evaluation_seconds": 44.27140170900384
+    },
+    {
+      "Candidate_Number": 512,
+      "Status": "ranked",
+      "evaluation_seconds": 44.285050500009675
+    },
+    {
+      "Candidate_Number": 513,
+      "Status": "ranked",
+      "evaluation_seconds": 54.854526709008496
+    },
+    {
+      "Candidate_Number": 514,
+      "Status": "ranked",
+      "evaluation_seconds": 64.01258229202358
+    },
+    {
+      "Candidate_Number": 515,
+      "Status": "ranked",
+      "evaluation_seconds": 63.98850037500961
+    },
+    {
+      "Candidate_Number": 516,
+      "Status": "ranked",
+      "evaluation_seconds": 91.4735029580188
+    },
+    {
+      "Candidate_Number": 517,
+      "Status": "ranked",
+      "evaluation_seconds": 44.32096220803214
+    },
+    {
+      "Candidate_Number": 518,
+      "Status": "ranked",
+      "evaluation_seconds": 44.9603033339954
+    },
+    {
+      "Candidate_Number": 519,
+      "Status": "ranked",
+      "evaluation_seconds": 54.579176333965734
+    },
+    {
+      "Candidate_Number": 520,
+      "Status": "ranked",
+      "evaluation_seconds": 44.35895308299223
+    },
+    {
+      "Candidate_Number": 521,
+      "Status": "ranked",
+      "evaluation_seconds": 44.31326841597911
+    },
+    {
+      "Candidate_Number": 522,
+      "Status": "ranked",
+      "evaluation_seconds": 54.364304499991704
+    },
+    {
+      "Candidate_Number": 523,
+      "Status": "ranked",
+      "evaluation_seconds": 44.519751582993194
+    },
+    {
+      "Candidate_Number": 524,
+      "Status": "ranked",
+      "evaluation_seconds": 44.78615270904265
+    },
+    {
+      "Candidate_Number": 525,
+      "Status": "ranked",
+      "evaluation_seconds": 55.49272212496726
+    },
+    {
+      "Candidate_Number": 526,
+      "Status": "ranked",
+      "evaluation_seconds": 64.3345625840011
+    },
+    {
+      "Candidate_Number": 527,
+      "Status": "ranked",
+      "evaluation_seconds": 64.28326333302539
+    },
+    {
+      "Candidate_Number": 528,
+      "Status": "ranked",
+      "evaluation_seconds": 92.3406186249922
+    },
+    {
+      "Candidate_Number": 529,
+      "Status": "ranked",
+      "evaluation_seconds": 46.359260125027504
+    },
+    {
+      "Candidate_Number": 530,
+      "Status": "ranked",
+      "evaluation_seconds": 46.26865858404199
+    },
+    {
+      "Candidate_Number": 531,
+      "Status": "ranked",
+      "evaluation_seconds": 61.90634266700363
+    },
+    {
+      "Candidate_Number": 532,
+      "Status": "ranked",
+      "evaluation_seconds": 46.44528379198164
+    },
+    {
+      "Candidate_Number": 533,
+      "Status": "ranked",
+      "evaluation_seconds": 46.379363249987364
+    },
+    {
+      "Candidate_Number": 534,
+      "Status": "ranked",
+      "evaluation_seconds": 61.09407008299604
+    },
+    {
+      "Candidate_Number": 535,
+      "Status": "ranked",
+      "evaluation_seconds": 46.41742204199545
+    },
+    {
+      "Candidate_Number": 536,
+      "Status": "ranked",
+      "evaluation_seconds": 46.3722091250238
+    },
+    {
+      "Candidate_Number": 537,
+      "Status": "ranked",
+      "evaluation_seconds": 60.138286042027175
+    },
+    {
+      "Candidate_Number": 538,
+      "Status": "ranked",
+      "evaluation_seconds": 62.43669325002702
+    },
+    {
+      "Candidate_Number": 539,
+      "Status": "ranked",
+      "evaluation_seconds": 62.46273675002158
+    },
+    {
+      "Candidate_Number": 540,
+      "Status": "ranked",
+      "evaluation_seconds": 78.00570166599937
+    },
+    {
+      "Candidate_Number": 541,
+      "Status": "ranked",
+      "evaluation_seconds": 44.57063858298352
+    },
+    {
+      "Candidate_Number": 542,
+      "Status": "ranked",
+      "evaluation_seconds": 44.61615412501851
+    },
+    {
+      "Candidate_Number": 543,
+      "Status": "ranked",
+      "evaluation_seconds": 61.394391042005736
+    },
+    {
+      "Candidate_Number": 544,
+      "Status": "ranked",
+      "evaluation_seconds": 44.22569879202638
+    },
+    {
+      "Candidate_Number": 545,
+      "Status": "ranked",
+      "evaluation_seconds": 44.5583550829906
+    },
+    {
+      "Candidate_Number": 546,
+      "Status": "ranked",
+      "evaluation_seconds": 59.40561087499373
+    },
+    {
+      "Candidate_Number": 547,
+      "Status": "ranked",
+      "evaluation_seconds": 44.41418091702508
+    },
+    {
+      "Candidate_Number": 548,
+      "Status": "ranked",
+      "evaluation_seconds": 44.61323854204966
+    },
+    {
+      "Candidate_Number": 549,
+      "Status": "ranked",
+      "evaluation_seconds": 58.8160195829696
+    },
+    {
+      "Candidate_Number": 550,
+      "Status": "ranked",
+      "evaluation_seconds": 64.45581783301895
+    },
+    {
+      "Candidate_Number": 551,
+      "Status": "ranked",
+      "evaluation_seconds": 64.32499437499791
+    },
+    {
+      "Candidate_Number": 552,
+      "Status": "ranked",
+      "evaluation_seconds": 91.25563708401751
+    },
+    {
+      "Candidate_Number": 553,
+      "Status": "ranked",
+      "evaluation_seconds": 44.45956508303061
+    },
+    {
+      "Candidate_Number": 554,
+      "Status": "ranked",
+      "evaluation_seconds": 44.36263983300887
+    },
+    {
+      "Candidate_Number": 555,
+      "Status": "ranked",
+      "evaluation_seconds": 56.480932499980554
+    },
+    {
+      "Candidate_Number": 556,
+      "Status": "ranked",
+      "evaluation_seconds": 44.12126195797464
+    },
+    {
+      "Candidate_Number": 557,
+      "Status": "ranked",
+      "evaluation_seconds": 44.25412637501722
+    },
+    {
+      "Candidate_Number": 558,
+      "Status": "ranked",
+      "evaluation_seconds": 54.171939000021666
+    },
+    {
+      "Candidate_Number": 559,
+      "Status": "ranked",
+      "evaluation_seconds": 44.21658441697946
+    },
+    {
+      "Candidate_Number": 560,
+      "Status": "ranked",
+      "evaluation_seconds": 44.49724837503163
+    },
+    {
+      "Candidate_Number": 561,
+      "Status": "ranked",
+      "evaluation_seconds": 53.29216212499887
+    },
+    {
+      "Candidate_Number": 562,
+      "Status": "ranked",
+      "evaluation_seconds": 64.57364749995759
+    },
+    {
+      "Candidate_Number": 563,
+      "Status": "ranked",
+      "evaluation_seconds": 64.43694766698172
+    },
+    {
+      "Candidate_Number": 564,
+      "Status": "ranked",
+      "evaluation_seconds": 90.94220720801968
+    },
+    {
+      "Candidate_Number": 565,
+      "Status": "ranked",
+      "evaluation_seconds": 44.59194854099769
+    },
+    {
+      "Candidate_Number": 566,
+      "Status": "ranked",
+      "evaluation_seconds": 44.473733749997336
+    },
+    {
+      "Candidate_Number": 567,
+      "Status": "ranked",
+      "evaluation_seconds": 53.51565416698577
+    },
+    {
+      "Candidate_Number": 568,
+      "Status": "ranked",
+      "evaluation_seconds": 44.317866750003304
+    },
+    {
+      "Candidate_Number": 569,
+      "Status": "ranked",
+      "evaluation_seconds": 44.40676020801766
+    },
+    {
+      "Candidate_Number": 570,
+      "Status": "ranked",
+      "evaluation_seconds": 52.232529458007775
+    },
+    {
+      "Candidate_Number": 571,
+      "Status": "ranked",
+      "evaluation_seconds": 44.65248829202028
+    },
+    {
+      "Candidate_Number": 572,
+      "Status": "ranked",
+      "evaluation_seconds": 44.667636499973014
+    },
+    {
+      "Candidate_Number": 573,
+      "Status": "ranked",
+      "evaluation_seconds": 54.42235616699327
+    },
+    {
+      "Candidate_Number": 574,
+      "Status": "ranked",
+      "evaluation_seconds": 64.83931875001872
+    },
+    {
+      "Candidate_Number": 575,
+      "Status": "ranked",
+      "evaluation_seconds": 64.92154599999776
+    },
+    {
+      "Candidate_Number": 576,
+      "Status": "ranked",
+      "evaluation_seconds": 91.19518887501908
+    },
+    {
+      "Candidate_Number": 577,
+      "Status": "ranked",
+      "evaluation_seconds": 41.65251350001199
+    },
+    {
+      "Candidate_Number": 578,
+      "Status": "ranked",
+      "evaluation_seconds": 41.435374333988875
+    },
+    {
+      "Candidate_Number": 579,
+      "Status": "ranked",
+      "evaluation_seconds": 56.78880554100033
+    },
+    {
+      "Candidate_Number": 580,
+      "Status": "ranked",
+      "evaluation_seconds": 41.99369091598783
+    },
+    {
+      "Candidate_Number": 581,
+      "Status": "ranked",
+      "evaluation_seconds": 41.98536200000672
+    },
+    {
+      "Candidate_Number": 582,
+      "Status": "ranked",
+      "evaluation_seconds": 57.79966612503631
+    },
+    {
+      "Candidate_Number": 583,
+      "Status": "ranked",
+      "evaluation_seconds": 42.047232374956366
+    },
+    {
+      "Candidate_Number": 584,
+      "Status": "ranked",
+      "evaluation_seconds": 41.31866454199189
+    },
+    {
+      "Candidate_Number": 585,
+      "Status": "ranked",
+      "evaluation_seconds": 57.021864583017305
+    },
+    {
+      "Candidate_Number": 586,
+      "Status": "ranked",
+      "evaluation_seconds": 57.87978729099268
+    },
+    {
+      "Candidate_Number": 587,
+      "Status": "ranked",
+      "evaluation_seconds": 57.840269959007856
+    },
+    {
+      "Candidate_Number": 588,
+      "Status": "ranked",
+      "evaluation_seconds": 75.3621970830136
+    },
+    {
+      "Candidate_Number": 589,
+      "Status": "ranked",
+      "evaluation_seconds": 39.861949915997684
+    },
+    {
+      "Candidate_Number": 590,
+      "Status": "ranked",
+      "evaluation_seconds": 39.80376158299623
+    },
+    {
+      "Candidate_Number": 591,
+      "Status": "ranked",
+      "evaluation_seconds": 56.43386950000422
+    },
+    {
+      "Candidate_Number": 592,
+      "Status": "ranked",
+      "evaluation_seconds": 39.72018062497955
+    },
+    {
+      "Candidate_Number": 593,
+      "Status": "ranked",
+      "evaluation_seconds": 39.89296629099408
+    },
+    {
+      "Candidate_Number": 594,
+      "Status": "ranked",
+      "evaluation_seconds": 56.65758475003531
+    },
+    {
+      "Candidate_Number": 595,
+      "Status": "ranked",
+      "evaluation_seconds": 39.595884582959116
+    },
+    {
+      "Candidate_Number": 596,
+      "Status": "ranked",
+      "evaluation_seconds": 39.7656300830422
+    },
+    {
+      "Candidate_Number": 597,
+      "Status": "ranked",
+      "evaluation_seconds": 55.510541249997914
+    },
+    {
+      "Candidate_Number": 598,
+      "Status": "ranked",
+      "evaluation_seconds": 59.58729900000617
+    },
+    {
+      "Candidate_Number": 599,
+      "Status": "ranked",
+      "evaluation_seconds": 59.60231550002936
+    },
+    {
+      "Candidate_Number": 600,
+      "Status": "ranked",
+      "evaluation_seconds": 89.14583824999863
+    },
+    {
+      "Candidate_Number": 601,
+      "Status": "ranked",
+      "evaluation_seconds": 39.55420970800333
+    },
+    {
+      "Candidate_Number": 602,
+      "Status": "ranked",
+      "evaluation_seconds": 39.624010334024206
+    },
+    {
+      "Candidate_Number": 603,
+      "Status": "ranked",
+      "evaluation_seconds": 53.50336758297635
+    },
+    {
+      "Candidate_Number": 604,
+      "Status": "ranked",
+      "evaluation_seconds": 39.56742120801937
+    },
+    {
+      "Candidate_Number": 605,
+      "Status": "ranked",
+      "evaluation_seconds": 39.63971508300165
+    },
+    {
+      "Candidate_Number": 606,
+      "Status": "ranked",
+      "evaluation_seconds": 52.905766333977226
+    },
+    {
+      "Candidate_Number": 607,
+      "Status": "ranked",
+      "evaluation_seconds": 39.49813737499062
+    },
+    {
+      "Candidate_Number": 608,
+      "Status": "ranked",
+      "evaluation_seconds": 39.432648041984066
+    },
+    {
+      "Candidate_Number": 609,
+      "Status": "ranked",
+      "evaluation_seconds": 50.701405750005506
+    },
+    {
+      "Candidate_Number": 610,
+      "Status": "ranked",
+      "evaluation_seconds": 59.42255808401387
+    },
+    {
+      "Candidate_Number": 611,
+      "Status": "ranked",
+      "evaluation_seconds": 59.58708079200005
+    },
+    {
+      "Candidate_Number": 612,
+      "Status": "ranked",
+      "evaluation_seconds": 88.53882891702233
+    },
+    {
+      "Candidate_Number": 613,
+      "Status": "ranked",
+      "evaluation_seconds": 39.55034125002567
+    },
+    {
+      "Candidate_Number": 614,
+      "Status": "ranked",
+      "evaluation_seconds": 40.42382758297026
+    },
+    {
+      "Candidate_Number": 615,
+      "Status": "ranked",
+      "evaluation_seconds": 49.82856195804197
+    },
+    {
+      "Candidate_Number": 616,
+      "Status": "ranked",
+      "evaluation_seconds": 39.79649499995867
+    },
+    {
+      "Candidate_Number": 617,
+      "Status": "ranked",
+      "evaluation_seconds": 40.105603542004246
+    },
+    {
+      "Candidate_Number": 618,
+      "Status": "ranked",
+      "evaluation_seconds": 49.058765541005414
+    },
+    {
+      "Candidate_Number": 619,
+      "Status": "ranked",
+      "evaluation_seconds": 39.41592091700295
+    },
+    {
+      "Candidate_Number": 620,
+      "Status": "ranked",
+      "evaluation_seconds": 39.5571318329894
+    },
+    {
+      "Candidate_Number": 621,
+      "Status": "ranked",
+      "evaluation_seconds": 49.77495762502076
+    },
+    {
+      "Candidate_Number": 622,
+      "Status": "ranked",
+      "evaluation_seconds": 59.74198370805243
+    },
+    {
+      "Candidate_Number": 623,
+      "Status": "ranked",
+      "evaluation_seconds": 59.55487908399664
+    },
+    {
+      "Candidate_Number": 624,
+      "Status": "ranked",
+      "evaluation_seconds": 89.27306791604497
+    },
+    {
+      "Candidate_Number": 625,
+      "Status": "ranked",
+      "evaluation_seconds": 41.04093095799908
+    },
+    {
+      "Candidate_Number": 626,
+      "Status": "ranked",
+      "evaluation_seconds": 41.04354766703909
+    },
+    {
+      "Candidate_Number": 627,
+      "Status": "ranked",
+      "evaluation_seconds": 56.06204945902573
+    },
+    {
+      "Candidate_Number": 628,
+      "Status": "ranked",
+      "evaluation_seconds": 41.224521709023975
+    },
+    {
+      "Candidate_Number": 629,
+      "Status": "ranked",
+      "evaluation_seconds": 41.22255162498914
+    },
+    {
+      "Candidate_Number": 630,
+      "Status": "ranked",
+      "evaluation_seconds": 56.280729833990335
+    },
+    {
+      "Candidate_Number": 631,
+      "Status": "ranked",
+      "evaluation_seconds": 41.23306058399612
+    },
+    {
+      "Candidate_Number": 632,
+      "Status": "ranked",
+      "evaluation_seconds": 41.10813633300131
+    },
+    {
+      "Candidate_Number": 633,
+      "Status": "ranked",
+      "evaluation_seconds": 56.774707667005714
+    },
+    {
+      "Candidate_Number": 634,
+      "Status": "ranked",
+      "evaluation_seconds": 57.683390583028086
+    },
+    {
+      "Candidate_Number": 635,
+      "Status": "ranked",
+      "evaluation_seconds": 57.704915250011254
+    },
+    {
+      "Candidate_Number": 636,
+      "Status": "ranked",
+      "evaluation_seconds": 73.88181958300993
+    },
+    {
+      "Candidate_Number": 637,
+      "Status": "ranked",
+      "evaluation_seconds": 39.572907665977255
+    },
+    {
+      "Candidate_Number": 638,
+      "Status": "ranked",
+      "evaluation_seconds": 39.63075770798605
+    },
+    {
+      "Candidate_Number": 639,
+      "Status": "ranked",
+      "evaluation_seconds": 55.46299166599056
+    },
+    {
+      "Candidate_Number": 640,
+      "Status": "ranked",
+      "evaluation_seconds": 39.35655162500916
+    },
+    {
+      "Candidate_Number": 641,
+      "Status": "ranked",
+      "evaluation_seconds": 39.66121741599636
+    },
+    {
+      "Candidate_Number": 642,
+      "Status": "ranked",
+      "evaluation_seconds": 55.593643707979936
+    },
+    {
+      "Candidate_Number": 643,
+      "Status": "ranked",
+      "evaluation_seconds": 39.453586041985545
+    },
+    {
+      "Candidate_Number": 644,
+      "Status": "ranked",
+      "evaluation_seconds": 39.5260617499589
+    },
+    {
+      "Candidate_Number": 645,
+      "Status": "ranked",
+      "evaluation_seconds": 55.9371870830073
+    },
+    {
+      "Candidate_Number": 646,
+      "Status": "ranked",
+      "evaluation_seconds": 59.58889541699318
+    },
+    {
+      "Candidate_Number": 647,
+      "Status": "ranked",
+      "evaluation_seconds": 59.57126308302395
+    },
+    {
+      "Candidate_Number": 648,
+      "Status": "ranked",
+      "evaluation_seconds": 89.16697516699787
+    },
+    {
+      "Candidate_Number": 649,
+      "Status": "ranked",
+      "evaluation_seconds": 39.38398070901167
+    },
+    {
+      "Candidate_Number": 650,
+      "Status": "ranked",
+      "evaluation_seconds": 39.518046333047096
+    },
+    {
+      "Candidate_Number": 651,
+      "Status": "ranked",
+      "evaluation_seconds": 53.49638658296317
+    },
+    {
+      "Candidate_Number": 652,
+      "Status": "ranked",
+      "evaluation_seconds": 39.4143998749787
+    },
+    {
+      "Candidate_Number": 653,
+      "Status": "ranked",
+      "evaluation_seconds": 39.4528838749975
+    },
+    {
+      "Candidate_Number": 654,
+      "Status": "ranked",
+      "evaluation_seconds": 51.460059833014384
+    },
+    {
+      "Candidate_Number": 655,
+      "Status": "ranked",
+      "evaluation_seconds": 39.302040457958356
+    },
+    {
+      "Candidate_Number": 656,
+      "Status": "ranked",
+      "evaluation_seconds": 39.39000912499614
+    },
+    {
+      "Candidate_Number": 657,
+      "Status": "ranked",
+      "evaluation_seconds": 50.831882792001124
+    },
+    {
+      "Candidate_Number": 658,
+      "Status": "ranked",
+      "evaluation_seconds": 59.480276125017554
+    },
+    {
+      "Candidate_Number": 659,
+      "Status": "ranked",
+      "evaluation_seconds": 59.508778667019214
+    },
+    {
+      "Candidate_Number": 660,
+      "Status": "ranked",
+      "evaluation_seconds": 88.35379270894919
+    },
+    {
+      "Candidate_Number": 661,
+      "Status": "ranked",
+      "evaluation_seconds": 39.4170519579784
+    },
+    {
+      "Candidate_Number": 662,
+      "Status": "ranked",
+      "evaluation_seconds": 40.091261708003
+    },
+    {
+      "Candidate_Number": 663,
+      "Status": "ranked",
+      "evaluation_seconds": 48.960324415995274
+    },
+    {
+      "Candidate_Number": 664,
+      "Status": "ranked",
+      "evaluation_seconds": 39.382029540953226
+    },
+    {
+      "Candidate_Number": 665,
+      "Status": "ranked",
+      "evaluation_seconds": 39.89714045805158
+    },
+    {
+      "Candidate_Number": 666,
+      "Status": "ranked",
+      "evaluation_seconds": 47.945422624994535
+    },
+    {
+      "Candidate_Number": 667,
+      "Status": "ranked",
+      "evaluation_seconds": 39.24356783396797
+    },
+    {
+      "Candidate_Number": 668,
+      "Status": "ranked",
+      "evaluation_seconds": 39.432533041981515
+    },
+    {
+      "Candidate_Number": 669,
+      "Status": "ranked",
+      "evaluation_seconds": 47.61248545901617
+    },
+    {
+      "Candidate_Number": 670,
+      "Status": "ranked",
+      "evaluation_seconds": 59.58192791696638
+    },
+    {
+      "Candidate_Number": 671,
+      "Status": "ranked",
+      "evaluation_seconds": 59.58612416696269
+    },
+    {
+      "Candidate_Number": 672,
+      "Status": "ranked",
+      "evaluation_seconds": 88.85276912502013
+    },
+    {
+      "Candidate_Number": 673,
+      "Status": "ranked",
+      "evaluation_seconds": 41.28335562499706
+    },
+    {
+      "Candidate_Number": 674,
+      "Status": "ranked",
+      "evaluation_seconds": 41.144226417003665
+    },
+    {
+      "Candidate_Number": 675,
+      "Status": "ranked",
+      "evaluation_seconds": 55.17151795903919
+    },
+    {
+      "Candidate_Number": 676,
+      "Status": "ranked",
+      "evaluation_seconds": 41.06891554198228
+    },
+    {
+      "Candidate_Number": 677,
+      "Status": "ranked",
+      "evaluation_seconds": 41.1251919590286
+    },
+    {
+      "Candidate_Number": 678,
+      "Status": "ranked",
+      "evaluation_seconds": 54.94437325000763
+    },
+    {
+      "Candidate_Number": 679,
+      "Status": "ranked",
+      "evaluation_seconds": 41.174697207985446
+    },
+    {
+      "Candidate_Number": 680,
+      "Status": "ranked",
+      "evaluation_seconds": 41.1769255840336
+    },
+    {
+      "Candidate_Number": 681,
+      "Status": "ranked",
+      "evaluation_seconds": 56.69284462498035
+    },
+    {
+      "Candidate_Number": 682,
+      "Status": "ranked",
+      "evaluation_seconds": 57.76726391701959
+    },
+    {
+      "Candidate_Number": 683,
+      "Status": "ranked",
+      "evaluation_seconds": 57.660295417008456
+    },
+    {
+      "Candidate_Number": 684,
+      "Status": "ranked",
+      "evaluation_seconds": 72.21706604200881
+    },
+    {
+      "Candidate_Number": 685,
+      "Status": "ranked",
+      "evaluation_seconds": 39.72335200000089
+    },
+    {
+      "Candidate_Number": 686,
+      "Status": "ranked",
+      "evaluation_seconds": 39.83698749996256
+    },
+    {
+      "Candidate_Number": 687,
+      "Status": "ranked",
+      "evaluation_seconds": 54.1073295410024
+    },
+    {
+      "Candidate_Number": 688,
+      "Status": "ranked",
+      "evaluation_seconds": 39.62719674996333
+    },
+    {
+      "Candidate_Number": 689,
+      "Status": "ranked",
+      "evaluation_seconds": 39.633599292021245
+    },
+    {
+      "Candidate_Number": 690,
+      "Status": "ranked",
+      "evaluation_seconds": 54.04195750004146
+    },
+    {
+      "Candidate_Number": 691,
+      "Status": "ranked",
+      "evaluation_seconds": 39.45737845799886
+    },
+    {
+      "Candidate_Number": 692,
+      "Status": "ranked",
+      "evaluation_seconds": 39.550880416994914
+    },
+    {
+      "Candidate_Number": 693,
+      "Status": "ranked",
+      "evaluation_seconds": 54.40154695796082
+    },
+    {
+      "Candidate_Number": 694,
+      "Status": "ranked",
+      "evaluation_seconds": 59.53655387501931
+    },
+    {
+      "Candidate_Number": 695,
+      "Status": "ranked",
+      "evaluation_seconds": 59.48087704204954
+    },
+    {
+      "Candidate_Number": 696,
+      "Status": "ranked",
+      "evaluation_seconds": 85.87598441599403
+    },
+    {
+      "Candidate_Number": 697,
+      "Status": "ranked",
+      "evaluation_seconds": 39.36664133297745
+    },
+    {
+      "Candidate_Number": 698,
+      "Status": "ranked",
+      "evaluation_seconds": 39.41959695803234
+    },
+    {
+      "Candidate_Number": 699,
+      "Status": "ranked",
+      "evaluation_seconds": 51.45433120900998
+    },
+    {
+      "Candidate_Number": 700,
+      "Status": "ranked",
+      "evaluation_seconds": 39.486392125021666
+    },
+    {
+      "Candidate_Number": 701,
+      "Status": "ranked",
+      "evaluation_seconds": 39.54866312496597
+    },
+    {
+      "Candidate_Number": 702,
+      "Status": "ranked",
+      "evaluation_seconds": 49.63153712503845
+    },
+    {
+      "Candidate_Number": 703,
+      "Status": "ranked",
+      "evaluation_seconds": 39.446551667002495
+    },
+    {
+      "Candidate_Number": 704,
+      "Status": "ranked",
+      "evaluation_seconds": 39.65182766696671
+    },
+    {
+      "Candidate_Number": 705,
+      "Status": "ranked",
+      "evaluation_seconds": 48.73180812498322
+    },
+    {
+      "Candidate_Number": 706,
+      "Status": "ranked",
+      "evaluation_seconds": 59.636881624988746
+    },
+    {
+      "Candidate_Number": 707,
+      "Status": "ranked",
+      "evaluation_seconds": 59.85557658399921
+    },
+    {
+      "Candidate_Number": 708,
+      "Status": "ranked",
+      "evaluation_seconds": 86.23269400000572
+    },
+    {
+      "Candidate_Number": 709,
+      "Status": "ranked",
+      "evaluation_seconds": 39.51503287500236
+    },
+    {
+      "Candidate_Number": 710,
+      "Status": "ranked",
+      "evaluation_seconds": 39.970826375007164
+    },
+    {
+      "Candidate_Number": 711,
+      "Status": "ranked",
+      "evaluation_seconds": 48.712671749992296
+    },
+    {
+      "Candidate_Number": 712,
+      "Status": "ranked",
+      "evaluation_seconds": 39.328916666971054
+    },
+    {
+      "Candidate_Number": 713,
+      "Status": "ranked",
+      "evaluation_seconds": 39.78869733295869
+    },
+    {
+      "Candidate_Number": 714,
+      "Status": "ranked",
+      "evaluation_seconds": 48.14755804097513
+    },
+    {
+      "Candidate_Number": 715,
+      "Status": "ranked",
+      "evaluation_seconds": 39.348407250014134
+    },
+    {
+      "Candidate_Number": 716,
+      "Status": "ranked",
+      "evaluation_seconds": 39.332730041991454
+    },
+    {
+      "Candidate_Number": 717,
+      "Status": "ranked",
+      "evaluation_seconds": 46.92961141699925
+    },
+    {
+      "Candidate_Number": 718,
+      "Status": "ranked",
+      "evaluation_seconds": 59.604662625002675
+    },
+    {
+      "Candidate_Number": 719,
+      "Status": "ranked",
+      "evaluation_seconds": 59.58536750002531
+    },
+    {
+      "Candidate_Number": 720,
+      "Status": "ranked",
+      "evaluation_seconds": 86.32028616697062
+    },
+    {
+      "Candidate_Number": 721,
+      "Status": "ranked",
+      "evaluation_seconds": 45.48444108304102
+    },
+    {
+      "Candidate_Number": 722,
+      "Status": "ranked",
+      "evaluation_seconds": 45.47620995802572
+    },
+    {
+      "Candidate_Number": 723,
+      "Status": "ranked",
+      "evaluation_seconds": 60.383848584024236
+    },
+    {
+      "Candidate_Number": 724,
+      "Status": "ranked",
+      "evaluation_seconds": 45.56297349999659
+    },
+    {
+      "Candidate_Number": 725,
+      "Status": "ranked",
+      "evaluation_seconds": 45.413277541985735
+    },
+    {
+      "Candidate_Number": 726,
+      "Status": "ranked",
+      "evaluation_seconds": 62.38366099999985
+    },
+    {
+      "Candidate_Number": 727,
+      "Status": "ranked",
+      "evaluation_seconds": 45.75075945799472
+    },
+    {
+      "Candidate_Number": 728,
+      "Status": "ranked",
+      "evaluation_seconds": 45.67960483400384
+    },
+    {
+      "Candidate_Number": 729,
+      "Status": "ranked",
+      "evaluation_seconds": 62.09048266697209
+    },
+    {
+      "Candidate_Number": 730,
+      "Status": "ranked",
+      "evaluation_seconds": 62.105569417006336
+    },
+    {
+      "Candidate_Number": 731,
+      "Status": "ranked",
+      "evaluation_seconds": 62.26033737504622
+    },
+    {
+      "Candidate_Number": 732,
+      "Status": "ranked",
+      "evaluation_seconds": 79.70561012497637
+    },
+    {
+      "Candidate_Number": 733,
+      "Status": "ranked",
+      "evaluation_seconds": 44.22668912500376
+    },
+    {
+      "Candidate_Number": 734,
+      "Status": "ranked",
+      "evaluation_seconds": 44.540890000003856
+    },
+    {
+      "Candidate_Number": 735,
+      "Status": "ranked",
+      "evaluation_seconds": 60.558115541003644
+    },
+    {
+      "Candidate_Number": 736,
+      "Status": "ranked",
+      "evaluation_seconds": 44.13045754196355
+    },
+    {
+      "Candidate_Number": 737,
+      "Status": "ranked",
+      "evaluation_seconds": 44.41342762502609
+    },
+    {
+      "Candidate_Number": 738,
+      "Status": "ranked",
+      "evaluation_seconds": 59.69523745897459
+    },
+    {
+      "Candidate_Number": 739,
+      "Status": "ranked",
+      "evaluation_seconds": 44.19331287499517
+    },
+    {
+      "Candidate_Number": 740,
+      "Status": "ranked",
+      "evaluation_seconds": 44.3696187500027
+    },
+    {
+      "Candidate_Number": 741,
+      "Status": "ranked",
+      "evaluation_seconds": 59.28310833295109
+    },
+    {
+      "Candidate_Number": 742,
+      "Status": "ranked",
+      "evaluation_seconds": 64.31689149996964
+    },
+    {
+      "Candidate_Number": 743,
+      "Status": "ranked",
+      "evaluation_seconds": 64.25399470800767
+    },
+    {
+      "Candidate_Number": 744,
+      "Status": "ranked",
+      "evaluation_seconds": 93.52019187499536
+    },
+    {
+      "Candidate_Number": 745,
+      "Status": "ranked",
+      "evaluation_seconds": 44.17133045801893
+    },
+    {
+      "Candidate_Number": 746,
+      "Status": "ranked",
+      "evaluation_seconds": 44.046637125022244
+    },
+    {
+      "Candidate_Number": 747,
+      "Status": "ranked",
+      "evaluation_seconds": 57.44950020802207
+    },
+    {
+      "Candidate_Number": 748,
+      "Status": "ranked",
+      "evaluation_seconds": 43.81215725000948
+    },
+    {
+      "Candidate_Number": 749,
+      "Status": "ranked",
+      "evaluation_seconds": 43.87886387499748
+    },
+    {
+      "Candidate_Number": 750,
+      "Status": "ranked",
+      "evaluation_seconds": 54.242879041004926
+    },
+    {
+      "Candidate_Number": 751,
+      "Status": "ranked",
+      "evaluation_seconds": 43.851936333987396
+    },
+    {
+      "Candidate_Number": 752,
+      "Status": "ranked",
+      "evaluation_seconds": 43.90106012497563
+    },
+    {
+      "Candidate_Number": 753,
+      "Status": "ranked",
+      "evaluation_seconds": 54.26784929202404
+    },
+    {
+      "Candidate_Number": 754,
+      "Status": "ranked",
+      "evaluation_seconds": 63.93169537500944
+    },
+    {
+      "Candidate_Number": 755,
+      "Status": "ranked",
+      "evaluation_seconds": 63.92452554102056
+    },
+    {
+      "Candidate_Number": 756,
+      "Status": "ranked",
+      "evaluation_seconds": 93.09182529198006
+    },
+    {
+      "Candidate_Number": 757,
+      "Status": "ranked",
+      "evaluation_seconds": 43.84020508296089
+    },
+    {
+      "Candidate_Number": 758,
+      "Status": "ranked",
+      "evaluation_seconds": 44.265846833004616
+    },
+    {
+      "Candidate_Number": 759,
+      "Status": "ranked",
+      "evaluation_seconds": 53.53931970795384
+    },
+    {
+      "Candidate_Number": 760,
+      "Status": "ranked",
+      "evaluation_seconds": 43.80644050001865
+    },
+    {
+      "Candidate_Number": 761,
+      "Status": "ranked",
+      "evaluation_seconds": 43.89729766600067
+    },
+    {
+      "Candidate_Number": 762,
+      "Status": "ranked",
+      "evaluation_seconds": 53.41444133402547
+    },
+    {
+      "Candidate_Number": 763,
+      "Status": "ranked",
+      "evaluation_seconds": 43.83154770900728
+    },
+    {
+      "Candidate_Number": 764,
+      "Status": "ranked",
+      "evaluation_seconds": 43.92184820800321
+    },
+    {
+      "Candidate_Number": 765,
+      "Status": "ranked",
+      "evaluation_seconds": 51.70042808400467
+    },
+    {
+      "Candidate_Number": 766,
+      "Status": "ranked",
+      "evaluation_seconds": 64.07072199997492
+    },
+    {
+      "Candidate_Number": 767,
+      "Status": "ranked",
+      "evaluation_seconds": 64.13223524997011
+    },
+    {
+      "Candidate_Number": 768,
+      "Status": "ranked",
+      "evaluation_seconds": 94.04291641601594
+    },
+    {
+      "Candidate_Number": 769,
+      "Status": "ranked",
+      "evaluation_seconds": 45.50555670901667
+    },
+    {
+      "Candidate_Number": 770,
+      "Status": "ranked",
+      "evaluation_seconds": 45.481444417033345
+    },
+    {
+      "Candidate_Number": 771,
+      "Status": "ranked",
+      "evaluation_seconds": 59.845507792022545
+    },
+    {
+      "Candidate_Number": 772,
+      "Status": "ranked",
+      "evaluation_seconds": 45.61915524996584
+    },
+    {
+      "Candidate_Number": 773,
+      "Status": "ranked",
+      "evaluation_seconds": 45.56015691696666
+    },
+    {
+      "Candidate_Number": 774,
+      "Status": "ranked",
+      "evaluation_seconds": 61.59124683396658
+    },
+    {
+      "Candidate_Number": 775,
+      "Status": "ranked",
+      "evaluation_seconds": 45.703708500019275
+    },
+    {
+      "Candidate_Number": 776,
+      "Status": "ranked",
+      "evaluation_seconds": 45.68064708303427
+    },
+    {
+      "Candidate_Number": 777,
+      "Status": "ranked",
+      "evaluation_seconds": 61.06928766699275
+    },
+    {
+      "Candidate_Number": 778,
+      "Status": "ranked",
+      "evaluation_seconds": 62.339894707954954
+    },
+    {
+      "Candidate_Number": 779,
+      "Status": "ranked",
+      "evaluation_seconds": 62.420063791039865
+    },
+    {
+      "Candidate_Number": 780,
+      "Status": "ranked",
+      "evaluation_seconds": 79.4688026670483
+    },
+    {
+      "Candidate_Number": 781,
+      "Status": "ranked",
+      "evaluation_seconds": 44.154425250017084
+    },
+    {
+      "Candidate_Number": 782,
+      "Status": "ranked",
+      "evaluation_seconds": 44.09053549997043
+    },
+    {
+      "Candidate_Number": 783,
+      "Status": "ranked",
+      "evaluation_seconds": 60.69115650001913
+    },
+    {
+      "Candidate_Number": 784,
+      "Status": "ranked",
+      "evaluation_seconds": 44.25735012500081
+    },
+    {
+      "Candidate_Number": 785,
+      "Status": "ranked",
+      "evaluation_seconds": 44.41954887501197
+    },
+    {
+      "Candidate_Number": 786,
+      "Status": "ranked",
+      "evaluation_seconds": 58.63395766704343
+    },
+    {
+      "Candidate_Number": 787,
+      "Status": "ranked",
+      "evaluation_seconds": 44.034574749995954
+    },
+    {
+      "Candidate_Number": 788,
+      "Status": "ranked",
+      "evaluation_seconds": 44.03129054099554
+    },
+    {
+      "Candidate_Number": 789,
+      "Status": "ranked",
+      "evaluation_seconds": 57.64514912501909
+    },
+    {
+      "Candidate_Number": 790,
+      "Status": "ranked",
+      "evaluation_seconds": 64.17477008298738
+    },
+    {
+      "Candidate_Number": 791,
+      "Status": "ranked",
+      "evaluation_seconds": 64.27531895798165
+    },
+    {
+      "Candidate_Number": 792,
+      "Status": "ranked",
+      "evaluation_seconds": 94.45134208298987
+    },
+    {
+      "Candidate_Number": 793,
+      "Status": "ranked",
+      "evaluation_seconds": 43.83317608298967
+    },
+    {
+      "Candidate_Number": 794,
+      "Status": "ranked",
+      "evaluation_seconds": 44.02055612497497
+    },
+    {
+      "Candidate_Number": 795,
+      "Status": "ranked",
+      "evaluation_seconds": 57.54618579201633
+    },
+    {
+      "Candidate_Number": 796,
+      "Status": "ranked",
+      "evaluation_seconds": 44.02827933395747
+    },
+    {
+      "Candidate_Number": 797,
+      "Status": "ranked",
+      "evaluation_seconds": 43.9893392919912
+    },
+    {
+      "Candidate_Number": 798,
+      "Status": "ranked",
+      "evaluation_seconds": 54.45440008305013
+    },
+    {
+      "Candidate_Number": 799,
+      "Status": "ranked",
+      "evaluation_seconds": 44.05704833404161
+    },
+    {
+      "Candidate_Number": 800,
+      "Status": "ranked",
+      "evaluation_seconds": 44.13405845902162
+    },
+    {
+      "Candidate_Number": 801,
+      "Status": "ranked",
+      "evaluation_seconds": 53.848484416957945
+    },
+    {
+      "Candidate_Number": 802,
+      "Status": "ranked",
+      "evaluation_seconds": 64.67439558298793
+    },
+    {
+      "Candidate_Number": 803,
+      "Status": "ranked",
+      "evaluation_seconds": 64.7876556669944
+    },
+    {
+      "Candidate_Number": 804,
+      "Status": "ranked",
+      "evaluation_seconds": 94.99365245801164
+    },
+    {
+      "Candidate_Number": 805,
+      "Status": "ranked",
+      "evaluation_seconds": 44.44255841698032
+    },
+    {
+      "Candidate_Number": 806,
+      "Status": "ranked",
+      "evaluation_seconds": 44.799568707996514
+    },
+    {
+      "Candidate_Number": 807,
+      "Status": "ranked",
+      "evaluation_seconds": 53.73624491703231
+    },
+    {
+      "Candidate_Number": 808,
+      "Status": "ranked",
+      "evaluation_seconds": 43.77125104202423
+    },
+    {
+      "Candidate_Number": 809,
+      "Status": "ranked",
+      "evaluation_seconds": 44.21883854200132
+    },
+    {
+      "Candidate_Number": 810,
+      "Status": "ranked",
+      "evaluation_seconds": 53.38232029200299
+    },
+    {
+      "Candidate_Number": 811,
+      "Status": "ranked",
+      "evaluation_seconds": 44.020007958984934
+    },
+    {
+      "Candidate_Number": 812,
+      "Status": "ranked",
+      "evaluation_seconds": 44.07475699996576
+    },
+    {
+      "Candidate_Number": 813,
+      "Status": "ranked",
+      "evaluation_seconds": 51.049960166972596
+    },
+    {
+      "Candidate_Number": 814,
+      "Status": "ranked",
+      "evaluation_seconds": 64.23178191599436
+    },
+    {
+      "Candidate_Number": 815,
+      "Status": "ranked",
+      "evaluation_seconds": 64.37272045802092
+    },
+    {
+      "Candidate_Number": 816,
+      "Status": "ranked",
+      "evaluation_seconds": 93.62036050000461
+    },
+    {
+      "Candidate_Number": 817,
+      "Status": "ranked",
+      "evaluation_seconds": 45.58469937497284
+    },
+    {
+      "Candidate_Number": 818,
+      "Status": "ranked",
+      "evaluation_seconds": 45.468856833002064
+    },
+    {
+      "Candidate_Number": 819,
+      "Status": "ranked",
+      "evaluation_seconds": 58.91050245799124
+    },
+    {
+      "Candidate_Number": 820,
+      "Status": "ranked",
+      "evaluation_seconds": 45.44529008399695
+    },
+    {
+      "Candidate_Number": 821,
+      "Status": "ranked",
+      "evaluation_seconds": 45.52156270900741
+    },
+    {
+      "Candidate_Number": 822,
+      "Status": "ranked",
+      "evaluation_seconds": 59.82784958399134
+    },
+    {
+      "Candidate_Number": 823,
+      "Status": "ranked",
+      "evaluation_seconds": 45.518218707991764
+    },
+    {
+      "Candidate_Number": 824,
+      "Status": "ranked",
+      "evaluation_seconds": 45.66306158399675
+    },
+    {
+      "Candidate_Number": 825,
+      "Status": "ranked",
+      "evaluation_seconds": 60.019714374968316
+    },
+    {
+      "Candidate_Number": 826,
+      "Status": "ranked",
+      "evaluation_seconds": 62.23396629100898
+    },
+    {
+      "Candidate_Number": 827,
+      "Status": "ranked",
+      "evaluation_seconds": 62.302555125032086
+    },
+    {
+      "Candidate_Number": 828,
+      "Status": "ranked",
+      "evaluation_seconds": 78.12277812499087
+    },
+    {
+      "Candidate_Number": 829,
+      "Status": "ranked",
+      "evaluation_seconds": 44.09666212502634
+    },
+    {
+      "Candidate_Number": 830,
+      "Status": "ranked",
+      "evaluation_seconds": 44.059532124956604
+    },
+    {
+      "Candidate_Number": 831,
+      "Status": "ranked",
+      "evaluation_seconds": 57.78060970903607
+    },
+    {
+      "Candidate_Number": 832,
+      "Status": "ranked",
+      "evaluation_seconds": 43.86749645898817
+    },
+    {
+      "Candidate_Number": 833,
+      "Status": "ranked",
+      "evaluation_seconds": 44.124599375005346
+    },
+    {
+      "Candidate_Number": 834,
+      "Status": "ranked",
+      "evaluation_seconds": 58.708908208005596
+    },
+    {
+      "Candidate_Number": 835,
+      "Status": "ranked",
+      "evaluation_seconds": 43.87920833402313
+    },
+    {
+      "Candidate_Number": 836,
+      "Status": "ranked",
+      "evaluation_seconds": 43.996793124999385
+    },
+    {
+      "Candidate_Number": 837,
+      "Status": "ranked",
+      "evaluation_seconds": 59.24637825001264
+    },
+    {
+      "Candidate_Number": 838,
+      "Status": "ranked",
+      "evaluation_seconds": 64.08424754196312
+    },
+    {
+      "Candidate_Number": 839,
+      "Status": "ranked",
+      "evaluation_seconds": 64.0832122080028
+    },
+    {
+      "Candidate_Number": 840,
+      "Status": "ranked",
+      "evaluation_seconds": 92.6216478330316
+    },
+    {
+      "Candidate_Number": 841,
+      "Status": "ranked",
+      "evaluation_seconds": 43.90975358302239
+    },
+    {
+      "Candidate_Number": 842,
+      "Status": "ranked",
+      "evaluation_seconds": 43.98139491700567
+    },
+    {
+      "Candidate_Number": 843,
+      "Status": "ranked",
+      "evaluation_seconds": 57.49037795799086
+    },
+    {
+      "Candidate_Number": 844,
+      "Status": "ranked",
+      "evaluation_seconds": 43.97073083301075
+    },
+    {
+      "Candidate_Number": 845,
+      "Status": "ranked",
+      "evaluation_seconds": 43.98865720798494
+    },
+    {
+      "Candidate_Number": 846,
+      "Status": "ranked",
+      "evaluation_seconds": 54.05340433301171
+    },
+    {
+      "Candidate_Number": 847,
+      "Status": "ranked",
+      "evaluation_seconds": 43.90591091604438
+    },
+    {
+      "Candidate_Number": 848,
+      "Status": "ranked",
+      "evaluation_seconds": 44.097284416959155
+    },
+    {
+      "Candidate_Number": 849,
+      "Status": "ranked",
+      "evaluation_seconds": 53.3971593749593
+    },
+    {
+      "Candidate_Number": 850,
+      "Status": "ranked",
+      "evaluation_seconds": 64.33870675001526
+    },
+    {
+      "Candidate_Number": 851,
+      "Status": "ranked",
+      "evaluation_seconds": 64.32110154099064
+    },
+    {
+      "Candidate_Number": 852,
+      "Status": "ranked",
+      "evaluation_seconds": 93.38948520901613
+    },
+    {
+      "Candidate_Number": 853,
+      "Status": "ranked",
+      "evaluation_seconds": 43.89476208295673
+    },
+    {
+      "Candidate_Number": 854,
+      "Status": "ranked",
+      "evaluation_seconds": 45.402942541986704
+    },
+    {
+      "Candidate_Number": 855,
+      "Status": "ranked",
+      "evaluation_seconds": 56.54244554199977
+    },
+    {
+      "Candidate_Number": 856,
+      "Status": "ranked",
+      "evaluation_seconds": 44.879041042004246
+    },
+    {
+      "Candidate_Number": 857,
+      "Status": "ranked",
+      "evaluation_seconds": 45.323865874961484
+    },
+    {
+      "Candidate_Number": 858,
+      "Status": "ranked",
+      "evaluation_seconds": 55.02918316598516
+    },
+    {
+      "Candidate_Number": 859,
+      "Status": "ranked",
+      "evaluation_seconds": 44.357135458965786
+    },
+    {
+      "Candidate_Number": 860,
+      "Status": "ranked",
+      "evaluation_seconds": 44.34407408395782
+    },
+    {
+      "Candidate_Number": 861,
+      "Status": "ranked",
+      "evaluation_seconds": 50.29785691696452
+    },
+    {
+      "Candidate_Number": 862,
+      "Status": "ranked",
+      "evaluation_seconds": 66.03251962497598
+    },
+    {
+      "Candidate_Number": 863,
+      "Status": "ranked",
+      "evaluation_seconds": 66.0237587079755
+    },
+    {
+      "Candidate_Number": 864,
+      "Status": "ranked",
+      "evaluation_seconds": 94.75970125000458
+    },
+    {
+      "Candidate_Number": 865,
+      "Status": "ranked",
+      "evaluation_seconds": 45.25702958297916
+    },
+    {
+      "Candidate_Number": 866,
+      "Status": "ranked",
+      "evaluation_seconds": 45.72277033299906
+    },
+    {
+      "Candidate_Number": 867,
+      "Status": "ranked",
+      "evaluation_seconds": 64.56344983296003
+    },
+    {
+      "Candidate_Number": 868,
+      "Status": "ranked",
+      "evaluation_seconds": 44.670094417000655
+    },
+    {
+      "Candidate_Number": 869,
+      "Status": "ranked",
+      "evaluation_seconds": 44.6809959160164
+    },
+    {
+      "Candidate_Number": 870,
+      "Status": "ranked",
+      "evaluation_seconds": 63.90851450001355
+    },
+    {
+      "Candidate_Number": 871,
+      "Status": "ranked",
+      "evaluation_seconds": 44.006829374993686
+    },
+    {
+      "Candidate_Number": 872,
+      "Status": "ranked",
+      "evaluation_seconds": 43.594576000003144
+    },
+    {
+      "Candidate_Number": 873,
+      "Status": "ranked",
+      "evaluation_seconds": 61.93130066600861
+    },
+    {
+      "Candidate_Number": 874,
+      "Status": "ranked",
+      "evaluation_seconds": 82.02617174998159
+    },
+    {
+      "Candidate_Number": 875,
+      "Status": "ranked",
+      "evaluation_seconds": 81.9777100830106
+    },
+    {
+      "Candidate_Number": 876,
+      "Status": "ranked",
+      "evaluation_seconds": 101.39323383301962
+    },
+    {
+      "Candidate_Number": 877,
+      "Status": "ranked",
+      "evaluation_seconds": 41.32138791697798
+    },
+    {
+      "Candidate_Number": 878,
+      "Status": "ranked",
+      "evaluation_seconds": 41.52316945797065
+    },
+    {
+      "Candidate_Number": 879,
+      "Status": "ranked",
+      "evaluation_seconds": 62.03344174998347
+    },
+    {
+      "Candidate_Number": 880,
+      "Status": "ranked",
+      "evaluation_seconds": 41.00131833303021
+    },
+    {
+      "Candidate_Number": 881,
+      "Status": "ranked",
+      "evaluation_seconds": 41.0485241250135
+    },
+    {
+      "Candidate_Number": 882,
+      "Status": "ranked",
+      "evaluation_seconds": 59.26653045800049
+    },
+    {
+      "Candidate_Number": 883,
+      "Status": "ranked",
+      "evaluation_seconds": 40.857246625004336
+    },
+    {
+      "Candidate_Number": 884,
+      "Status": "ranked",
+      "evaluation_seconds": 41.10683887498453
+    },
+    {
+      "Candidate_Number": 885,
+      "Status": "ranked",
+      "evaluation_seconds": 60.009598958014976
+    },
+    {
+      "Candidate_Number": 886,
+      "Status": "ranked",
+      "evaluation_seconds": 83.68788433395093
+    },
+    {
+      "Candidate_Number": 887,
+      "Status": "ranked",
+      "evaluation_seconds": 83.64732529100729
+    },
+    {
+      "Candidate_Number": 888,
+      "Status": "ranked",
+      "evaluation_seconds": 117.04623237502528
+    },
+    {
+      "Candidate_Number": 889,
+      "Status": "ranked",
+      "evaluation_seconds": 40.955521124997176
+    },
+    {
+      "Candidate_Number": 890,
+      "Status": "ranked",
+      "evaluation_seconds": 41.072782167000696
+    },
+    {
+      "Candidate_Number": 891,
+      "Status": "ranked",
+      "evaluation_seconds": 54.483190750004724
+    },
+    {
+      "Candidate_Number": 892,
+      "Status": "ranked",
+      "evaluation_seconds": 40.872861332958564
+    },
+    {
+      "Candidate_Number": 893,
+      "Status": "ranked",
+      "evaluation_seconds": 41.02545029198518
+    },
+    {
+      "Candidate_Number": 894,
+      "Status": "ranked",
+      "evaluation_seconds": 57.12450441601686
+    },
+    {
+      "Candidate_Number": 895,
+      "Status": "ranked",
+      "evaluation_seconds": 41.88186616601888
+    },
+    {
+      "Candidate_Number": 896,
+      "Status": "ranked",
+      "evaluation_seconds": 43.38174479099689
+    },
+    {
+      "Candidate_Number": 897,
+      "Status": "ranked",
+      "evaluation_seconds": 55.286538292013574
+    },
+    {
+      "Candidate_Number": 898,
+      "Status": "ranked",
+      "evaluation_seconds": 87.10141525004292
+    },
+    {
+      "Candidate_Number": 899,
+      "Status": "ranked",
+      "evaluation_seconds": 87.3223154169973
+    },
+    {
+      "Candidate_Number": 900,
+      "Status": "ranked",
+      "evaluation_seconds": 121.76589825004339
+    },
+    {
+      "Candidate_Number": 901,
+      "Status": "ranked",
+      "evaluation_seconds": 41.99489154201001
+    },
+    {
+      "Candidate_Number": 902,
+      "Status": "ranked",
+      "evaluation_seconds": 42.87725037505152
+    },
+    {
+      "Candidate_Number": 903,
+      "Status": "ranked",
+      "evaluation_seconds": 55.181932167033665
+    },
+    {
+      "Candidate_Number": 904,
+      "Status": "ranked",
+      "evaluation_seconds": 41.94049404101679
+    },
+    {
+      "Candidate_Number": 905,
+      "Status": "ranked",
+      "evaluation_seconds": 42.247036916029174
+    },
+    {
+      "Candidate_Number": 906,
+      "Status": "ranked",
+      "evaluation_seconds": 54.121163750009146
+    },
+    {
+      "Candidate_Number": 907,
+      "Status": "ranked",
+      "evaluation_seconds": 42.11641233297996
+    },
+    {
+      "Candidate_Number": 908,
+      "Status": "ranked",
+      "evaluation_seconds": 42.6194351669983
+    },
+    {
+      "Candidate_Number": 909,
+      "Status": "ranked",
+      "evaluation_seconds": 55.094062541029416
+    },
+    {
+      "Candidate_Number": 910,
+      "Status": "ranked",
+      "evaluation_seconds": 86.13830783299636
+    },
+    {
+      "Candidate_Number": 911,
+      "Status": "ranked",
+      "evaluation_seconds": 86.57169808296021
+    },
+    {
+      "Candidate_Number": 912,
+      "Status": "ranked",
+      "evaluation_seconds": 124.60831820801832
+    },
+    {
+      "Candidate_Number": 913,
+      "Status": "ranked",
+      "evaluation_seconds": 43.911089750006795
+    },
+    {
+      "Candidate_Number": 914,
+      "Status": "ranked",
+      "evaluation_seconds": 43.581963083008304
+    },
+    {
+      "Candidate_Number": 915,
+      "Status": "ranked",
+      "evaluation_seconds": 64.68415804195683
+    },
+    {
+      "Candidate_Number": 916,
+      "Status": "ranked",
+      "evaluation_seconds": 46.67825995897874
+    },
+    {
+      "Candidate_Number": 917,
+      "Status": "ranked",
+      "evaluation_seconds": 49.017916166980285
+    },
+    {
+      "Candidate_Number": 918,
+      "Status": "ranked",
+      "evaluation_seconds": 67.75440795900067
+    },
+    {
+      "Candidate_Number": 919,
+      "Status": "ranked",
+      "evaluation_seconds": 48.891618916997686
+    },
+    {
+      "Candidate_Number": 920,
+      "Status": "ranked",
+      "evaluation_seconds": 48.100576624972746
+    },
+    {
+      "Candidate_Number": 921,
+      "Status": "ranked",
+      "evaluation_seconds": 66.8375757499598
+    },
+    {
+      "Candidate_Number": 922,
+      "Status": "ranked",
+      "evaluation_seconds": 86.9573289580294
+    },
+    {
+      "Candidate_Number": 923,
+      "Status": "ranked",
+      "evaluation_seconds": 86.29242816695478
+    },
+    {
+      "Candidate_Number": 924,
+      "Status": "ranked",
+      "evaluation_seconds": 103.72281025000848
+    },
+    {
+      "Candidate_Number": 925,
+      "Status": "ranked",
+      "evaluation_seconds": 43.58048291702289
+    },
+    {
+      "Candidate_Number": 926,
+      "Status": "ranked",
+      "evaluation_seconds": 43.67797004204476
+    },
+    {
+      "Candidate_Number": 927,
+      "Status": "ranked",
+      "evaluation_seconds": 61.91212491696933
+    },
+    {
+      "Candidate_Number": 928,
+      "Status": "ranked",
+      "evaluation_seconds": 42.68526037497213
+    },
+    {
+      "Candidate_Number": 929,
+      "Status": "ranked",
+      "evaluation_seconds": 42.89153849997092
+    },
+    {
+      "Candidate_Number": 930,
+      "Status": "ranked",
+      "evaluation_seconds": 60.34640754101565
+    },
+    {
+      "Candidate_Number": 931,
+      "Status": "ranked",
+      "evaluation_seconds": 42.327426208008546
+    },
+    {
+      "Candidate_Number": 932,
+      "Status": "ranked",
+      "evaluation_seconds": 42.35997795901494
+    },
+    {
+      "Candidate_Number": 933,
+      "Status": "ranked",
+      "evaluation_seconds": 61.52875470800791
+    },
+    {
+      "Candidate_Number": 934,
+      "Status": "ranked",
+      "evaluation_seconds": 93.36126400000649
+    },
+    {
+      "Candidate_Number": 935,
+      "Status": "ranked",
+      "evaluation_seconds": 94.72949145798339
+    },
+    {
+      "Candidate_Number": 936,
+      "Status": "ranked",
+      "evaluation_seconds": 129.23980949999532
+    },
+    {
+      "Candidate_Number": 937,
+      "Status": "ranked",
+      "evaluation_seconds": 48.81379162496887
+    },
+    {
+      "Candidate_Number": 938,
+      "Status": "ranked",
+      "evaluation_seconds": 49.739709832996596
+    },
+    {
+      "Candidate_Number": 939,
+      "Status": "ranked",
+      "evaluation_seconds": 62.08009925001534
+    },
+    {
+      "Candidate_Number": 940,
+      "Status": "ranked",
+      "evaluation_seconds": 46.38434549997328
+    },
+    {
+      "Candidate_Number": 941,
+      "Status": "ranked",
+      "evaluation_seconds": 46.200142916990444
+    },
+    {
+      "Candidate_Number": 942,
+      "Status": "ranked",
+      "evaluation_seconds": 57.698788375011645
+    },
+    {
+      "Candidate_Number": 943,
+      "Status": "ranked",
+      "evaluation_seconds": 44.94018037500791
+    },
+    {
+      "Candidate_Number": 944,
+      "Status": "ranked",
+      "evaluation_seconds": 44.44790554197971
+    },
+    {
+      "Candidate_Number": 945,
+      "Status": "ranked",
+      "evaluation_seconds": 56.099434833973646
+    },
+    {
+      "Candidate_Number": 946,
+      "Status": "ranked",
+      "evaluation_seconds": 90.04911812499631
+    },
+    {
+      "Candidate_Number": 947,
+      "Status": "ranked",
+      "evaluation_seconds": 89.67494033300318
+    },
+    {
+      "Candidate_Number": 948,
+      "Status": "ranked",
+      "evaluation_seconds": 122.85903829196468
+    },
+    {
+      "Candidate_Number": 949,
+      "Status": "ranked",
+      "evaluation_seconds": 44.35010762501042
+    },
+    {
+      "Candidate_Number": 950,
+      "Status": "ranked",
+      "evaluation_seconds": 45.12435225001536
+    },
+    {
+      "Candidate_Number": 951,
+      "Status": "ranked",
+      "evaluation_seconds": 54.17653704097029
+    },
+    {
+      "Candidate_Number": 952,
+      "Status": "ranked",
+      "evaluation_seconds": 43.23583429103019
+    },
+    {
+      "Candidate_Number": 953,
+      "Status": "ranked",
+      "evaluation_seconds": 43.50542399997357
+    },
+    {
+      "Candidate_Number": 954,
+      "Status": "ranked",
+      "evaluation_seconds": 52.7541911250446
+    },
+    {
+      "Candidate_Number": 955,
+      "Status": "ranked",
+      "evaluation_seconds": 42.913498166017234
+    },
+    {
+      "Candidate_Number": 956,
+      "Status": "ranked",
+      "evaluation_seconds": 43.32172733300831
+    },
+    {
+      "Candidate_Number": 957,
+      "Status": "ranked",
+      "evaluation_seconds": 54.9493575830129
+    },
+    {
+      "Candidate_Number": 958,
+      "Status": "ranked",
+      "evaluation_seconds": 89.6557000419707
+    },
+    {
+      "Candidate_Number": 959,
+      "Status": "ranked",
+      "evaluation_seconds": 91.52830329199787
+    },
+    {
+      "Candidate_Number": 960,
+      "Status": "ranked",
+      "evaluation_seconds": 136.3666696670116
+    },
+    {
+      "Candidate_Number": 961,
+      "Status": "ranked",
+      "evaluation_seconds": 45.075761166983284
+    },
+    {
+      "Candidate_Number": 962,
+      "Status": "ranked",
+      "evaluation_seconds": 45.10449229198275
+    },
+    {
+      "Candidate_Number": 963,
+      "Status": "ranked",
+      "evaluation_seconds": 66.30250187497586
+    },
+    {
+      "Candidate_Number": 964,
+      "Status": "ranked",
+      "evaluation_seconds": 50.96761533297831
+    },
+    {
+      "Candidate_Number": 965,
+      "Status": "ranked",
+      "evaluation_seconds": 54.91194550000364
+    },
+    {
+      "Candidate_Number": 966,
+      "Status": "ranked",
+      "evaluation_seconds": 82.17186120804399
+    },
+    {
+      "Candidate_Number": 967,
+      "Status": "ranked",
+      "evaluation_seconds": 60.77225237496896
+    },
+    {
+      "Candidate_Number": 968,
+      "Status": "ranked",
+      "evaluation_seconds": 61.32623754203087
+    },
+    {
+      "Candidate_Number": 969,
+      "Status": "ranked",
+      "evaluation_seconds": 79.63406120799482
+    },
+    {
+      "Candidate_Number": 970,
+      "Status": "ranked",
+      "evaluation_seconds": 105.27115004201187
+    },
+    {
+      "Candidate_Number": 971,
+      "Status": "ranked",
+      "evaluation_seconds": 101.97176495799795
+    },
+    {
+      "Candidate_Number": 972,
+      "Status": "ranked",
+      "evaluation_seconds": 123.032997332979
+    },
+    {
+      "Candidate_Number": 973,
+      "Status": "ranked",
+      "evaluation_seconds": 51.791126500000246
+    },
+    {
+      "Candidate_Number": 974,
+      "Status": "ranked",
+      "evaluation_seconds": 52.14888770796824
+    },
+    {
+      "Candidate_Number": 975,
+      "Status": "ranked",
+      "evaluation_seconds": 74.89339287497569
+    },
+    {
+      "Candidate_Number": 976,
+      "Status": "ranked",
+      "evaluation_seconds": 50.94523599999957
+    },
+    {
+      "Candidate_Number": 977,
+      "Status": "ranked",
+      "evaluation_seconds": 50.918661750038154
+    },
+    {
+      "Candidate_Number": 978,
+      "Status": "ranked",
+      "evaluation_seconds": 70.44854900002247
+    },
+    {
+      "Candidate_Number": 979,
+      "Status": "ranked",
+      "evaluation_seconds": 49.50400929199532
+    },
+    {
+      "Candidate_Number": 980,
+      "Status": "ranked",
+      "evaluation_seconds": 50.24273875000654
+    },
+    {
+      "Candidate_Number": 981,
+      "Status": "ranked",
+      "evaluation_seconds": 75.19509958301205
+    },
+    {
+      "Candidate_Number": 982,
+      "Status": "ranked",
+      "evaluation_seconds": 109.31611274997704
+    },
+    {
+      "Candidate_Number": 983,
+      "Status": "ranked",
+      "evaluation_seconds": 109.43971895799041
+    },
+    {
+      "Candidate_Number": 984,
+      "Status": "ranked",
+      "evaluation_seconds": 151.26965320797171
+    },
+    {
+      "Candidate_Number": 985,
+      "Status": "ranked",
+      "evaluation_seconds": 57.687321082979906
+    },
+    {
+      "Candidate_Number": 986,
+      "Status": "ranked",
+      "evaluation_seconds": 57.08342029101914
+    },
+    {
+      "Candidate_Number": 987,
+      "Status": "ranked",
+      "evaluation_seconds": 69.94496720802272
+    },
+    {
+      "Candidate_Number": 988,
+      "Status": "ranked",
+      "evaluation_seconds": 53.68602166703204
+    },
+    {
+      "Candidate_Number": 989,
+      "Status": "ranked",
+      "evaluation_seconds": 53.09274362499127
+    },
+    {
+      "Candidate_Number": 990,
+      "Status": "ranked",
+      "evaluation_seconds": 66.75302674999693
+    },
+    {
+      "Candidate_Number": 991,
+      "Status": "ranked",
+      "evaluation_seconds": 52.44915583299007
+    },
+    {
+      "Candidate_Number": 992,
+      "Status": "ranked",
+      "evaluation_seconds": 51.42297120799776
+    },
+    {
+      "Candidate_Number": 993,
+      "Status": "ranked",
+      "evaluation_seconds": 66.43959829199594
+    },
+    {
+      "Candidate_Number": 994,
+      "Status": "ranked",
+      "evaluation_seconds": 103.33772887504892
+    },
+    {
+      "Candidate_Number": 995,
+      "Status": "ranked",
+      "evaluation_seconds": 103.10896891599987
+    },
+    {
+      "Candidate_Number": 996,
+      "Status": "ranked",
+      "evaluation_seconds": 141.94096454104874
+    },
+    {
+      "Candidate_Number": 997,
+      "Status": "ranked",
+      "evaluation_seconds": 50.91472800000338
+    },
+    {
+      "Candidate_Number": 998,
+      "Status": "ranked",
+      "evaluation_seconds": 51.9265427920036
+    },
+    {
+      "Candidate_Number": 999,
+      "Status": "ranked",
+      "evaluation_seconds": 62.867285208019894
+    },
+    {
+      "Candidate_Number": 1000,
+      "Status": "ranked",
+      "evaluation_seconds": 50.41439154202817
+    },
+    {
+      "Candidate_Number": 1001,
+      "Status": "ranked",
+      "evaluation_seconds": 50.47735833399929
+    },
+    {
+      "Candidate_Number": 1002,
+      "Status": "ranked",
+      "evaluation_seconds": 61.60656037495937
+    },
+    {
+      "Candidate_Number": 1003,
+      "Status": "ranked",
+      "evaluation_seconds": 50.14625625003828
+    },
+    {
+      "Candidate_Number": 1004,
+      "Status": "ranked",
+      "evaluation_seconds": 50.450165958027355
+    },
+    {
+      "Candidate_Number": 1005,
+      "Status": "ranked",
+      "evaluation_seconds": 62.81727604201296
+    },
+    {
+      "Candidate_Number": 1006,
+      "Status": "ranked",
+      "evaluation_seconds": 107.4097988330177
+    },
+    {
+      "Candidate_Number": 1007,
+      "Status": "ranked",
+      "evaluation_seconds": 107.28735637501813
+    },
+    {
+      "Candidate_Number": 1008,
+      "Status": "ranked",
+      "evaluation_seconds": 144.81868791603483
+    },
+    {
+      "Candidate_Number": 1009,
+      "Status": "ranked",
+      "evaluation_seconds": 63.740946167032234
+    },
+    {
+      "Candidate_Number": 1010,
+      "Status": "ranked",
+      "evaluation_seconds": 64.13679341698298
+    },
+    {
+      "Candidate_Number": 1011,
+      "Status": "ranked",
+      "evaluation_seconds": 84.82289050001418
+    },
+    {
+      "Candidate_Number": 1012,
+      "Status": "ranked",
+      "evaluation_seconds": 58.88874033401953
+    },
+    {
+      "Candidate_Number": 1013,
+      "Status": "ranked",
+      "evaluation_seconds": 58.4402869999758
+    },
+    {
+      "Candidate_Number": 1014,
+      "Status": "ranked",
+      "evaluation_seconds": 79.44506362499669
+    },
+    {
+      "Candidate_Number": 1015,
+      "Status": "ranked",
+      "evaluation_seconds": 56.51881850004429
+    },
+    {
+      "Candidate_Number": 1016,
+      "Status": "ranked",
+      "evaluation_seconds": 56.308318875031546
+    },
+    {
+      "Candidate_Number": 1017,
+      "Status": "ranked",
+      "evaluation_seconds": 77.69029837503331
+    },
+    {
+      "Candidate_Number": 1018,
+      "Status": "ranked",
+      "evaluation_seconds": 97.78934004204348
+    },
+    {
+      "Candidate_Number": 1019,
+      "Status": "ranked",
+      "evaluation_seconds": 96.4889228749671
+    },
+    {
+      "Candidate_Number": 1020,
+      "Status": "ranked",
+      "evaluation_seconds": 117.0454670409672
+    },
+    {
+      "Candidate_Number": 1021,
+      "Status": "ranked",
+      "evaluation_seconds": 51.79574779100949
+    },
+    {
+      "Candidate_Number": 1022,
+      "Status": "ranked",
+      "evaluation_seconds": 51.9248953750357
+    },
+    {
+      "Candidate_Number": 1023,
+      "Status": "ranked",
+      "evaluation_seconds": 72.8939360830118
+    },
+    {
+      "Candidate_Number": 1024,
+      "Status": "ranked",
+      "evaluation_seconds": 49.79515420796815
+    },
+    {
+      "Candidate_Number": 1025,
+      "Status": "ranked",
+      "evaluation_seconds": 50.08907724998426
+    },
+    {
+      "Candidate_Number": 1026,
+      "Status": "ranked",
+      "evaluation_seconds": 73.89635858300608
+    },
+    {
+      "Candidate_Number": 1027,
+      "Status": "ranked",
+      "evaluation_seconds": 52.91294624999864
+    },
+    {
+      "Candidate_Number": 1028,
+      "Status": "ranked",
+      "evaluation_seconds": 56.53642729198327
+    },
+    {
+      "Candidate_Number": 1029,
+      "Status": "ranked",
+      "evaluation_seconds": 78.52672179200454
+    },
+    {
+      "Candidate_Number": 1030,
+      "Status": "ranked",
+      "evaluation_seconds": 107.62625945796026
+    },
+    {
+      "Candidate_Number": 1031,
+      "Status": "ranked",
+      "evaluation_seconds": 107.33574879099615
+    },
+    {
+      "Candidate_Number": 1032,
+      "Status": "ranked",
+      "evaluation_seconds": 140.7898924999754
+    },
+    {
+      "Candidate_Number": 1033,
+      "Status": "ranked",
+      "evaluation_seconds": 57.40428604197223
+    },
+    {
+      "Candidate_Number": 1034,
+      "Status": "ranked",
+      "evaluation_seconds": 55.163885791029315
+    },
+    {
+      "Candidate_Number": 1035,
+      "Status": "ranked",
+      "evaluation_seconds": 67.00827037496492
+    },
+    {
+      "Candidate_Number": 1036,
+      "Status": "ranked",
+      "evaluation_seconds": 50.76984937500674
+    },
+    {
+      "Candidate_Number": 1037,
+      "Status": "ranked",
+      "evaluation_seconds": 49.12400379200699
+    },
+    {
+      "Candidate_Number": 1038,
+      "Status": "ranked",
+      "evaluation_seconds": 62.06150745804189
+    },
+    {
+      "Candidate_Number": 1039,
+      "Status": "ranked",
+      "evaluation_seconds": 48.55909287498798
+    },
+    {
+      "Candidate_Number": 1040,
+      "Status": "ranked",
+      "evaluation_seconds": 48.594492250005715
+    },
+    {
+      "Candidate_Number": 1041,
+      "Status": "ranked",
+      "evaluation_seconds": 58.42014954198385
+    },
+    {
+      "Candidate_Number": 1042,
+      "Status": "ranked",
+      "evaluation_seconds": 93.77174741600174
+    },
+    {
+      "Candidate_Number": 1043,
+      "Status": "ranked",
+      "evaluation_seconds": 93.73068025003886
+    },
+    {
+      "Candidate_Number": 1044,
+      "Status": "ranked",
+      "evaluation_seconds": 128.24909199995454
+    },
+    {
+      "Candidate_Number": 1045,
+      "Status": "ranked",
+      "evaluation_seconds": 48.2829363750061
+    },
+    {
+      "Candidate_Number": 1046,
+      "Status": "ranked",
+      "evaluation_seconds": 48.58522045897553
+    },
+    {
+      "Candidate_Number": 1047,
+      "Status": "ranked",
+      "evaluation_seconds": 59.553867750044446
+    },
+    {
+      "Candidate_Number": 1048,
+      "Status": "ranked",
+      "evaluation_seconds": 47.8245138329803
+    },
+    {
+      "Candidate_Number": 1049,
+      "Status": "ranked",
+      "evaluation_seconds": 48.09730754100019
+    },
+    {
+      "Candidate_Number": 1050,
+      "Status": "ranked",
+      "evaluation_seconds": 59.46682004199829
+    },
+    {
+      "Candidate_Number": 1051,
+      "Status": "ranked",
+      "evaluation_seconds": 48.00942199997371
+    },
+    {
+      "Candidate_Number": 1052,
+      "Status": "ranked",
+      "evaluation_seconds": 48.25248229200952
+    },
+    {
+      "Candidate_Number": 1053,
+      "Status": "ranked",
+      "evaluation_seconds": 59.45486158400308
+    },
+    {
+      "Candidate_Number": 1054,
+      "Status": "ranked",
+      "evaluation_seconds": 93.36071274999995
+    },
+    {
+      "Candidate_Number": 1055,
+      "Status": "ranked",
+      "evaluation_seconds": 93.1860452920082
+    },
+    {
+      "Candidate_Number": 1056,
+      "Status": "ranked",
+      "evaluation_seconds": 126.93008974997792
+    },
+    {
+      "Candidate_Number": 1057,
+      "Status": "ranked",
+      "evaluation_seconds": 49.95272008300526
+    },
+    {
+      "Candidate_Number": 1058,
+      "Status": "ranked",
+      "evaluation_seconds": 49.88780670898268
+    },
+    {
+      "Candidate_Number": 1059,
+      "Status": "ranked",
+      "evaluation_seconds": 68.71931116603082
+    },
+    {
+      "Candidate_Number": 1060,
+      "Status": "ranked",
+      "evaluation_seconds": 50.237748500017915
+    },
+    {
+      "Candidate_Number": 1061,
+      "Status": "ranked",
+      "evaluation_seconds": 50.17660933401203
+    },
+    {
+      "Candidate_Number": 1062,
+      "Status": "ranked",
+      "evaluation_seconds": 68.87579333304893
+    },
+    {
+      "Candidate_Number": 1063,
+      "Status": "ranked",
+      "evaluation_seconds": 50.323346791032236
+    },
+    {
+      "Candidate_Number": 1064,
+      "Status": "ranked",
+      "evaluation_seconds": 50.43234991602367
+    },
+    {
+      "Candidate_Number": 1065,
+      "Status": "ranked",
+      "evaluation_seconds": 69.53032758302288
+    },
+    {
+      "Candidate_Number": 1066,
+      "Status": "ranked",
+      "evaluation_seconds": 92.16418395796791
+    },
+    {
+      "Candidate_Number": 1067,
+      "Status": "ranked",
+      "evaluation_seconds": 93.8932393330033
+    },
+    {
+      "Candidate_Number": 1068,
+      "Status": "ranked",
+      "evaluation_seconds": 113.1095119160018
+    },
+    {
+      "Candidate_Number": 1069,
+      "Status": "ranked",
+      "evaluation_seconds": 48.76421420904808
+    },
+    {
+      "Candidate_Number": 1070,
+      "Status": "ranked",
+      "evaluation_seconds": 48.90288824995514
+    },
+    {
+      "Candidate_Number": 1071,
+      "Status": "ranked",
+      "evaluation_seconds": 71.74755212495802
+    },
+    {
+      "Candidate_Number": 1072,
+      "Status": "ranked",
+      "evaluation_seconds": 51.22540441702586
+    },
+    {
+      "Candidate_Number": 1073,
+      "Status": "ranked",
+      "evaluation_seconds": 51.46345987502718
+    },
+    {
+      "Candidate_Number": 1074,
+      "Status": "ranked",
+      "evaluation_seconds": 68.19808129197918
+    },
+    {
+      "Candidate_Number": 1075,
+      "Status": "ranked",
+      "evaluation_seconds": 50.98886045801919
+    },
+    {
+      "Candidate_Number": 1076,
+      "Status": "ranked",
+      "evaluation_seconds": 51.131984334031586
+    },
+    {
+      "Candidate_Number": 1077,
+      "Status": "ranked",
+      "evaluation_seconds": 69.02400691603543
+    },
+    {
+      "Candidate_Number": 1078,
+      "Status": "ranked",
+      "evaluation_seconds": 99.31511979096103
+    },
+    {
+      "Candidate_Number": 1079,
+      "Status": "ranked",
+      "evaluation_seconds": 99.44121191703016
+    },
+    {
+      "Candidate_Number": 1080,
+      "Status": "ranked",
+      "evaluation_seconds": 132.4574607910472
+    },
+    {
+      "Candidate_Number": 1081,
+      "Status": "ranked",
+      "evaluation_seconds": 50.88968329195632
+    },
+    {
+      "Candidate_Number": 1082,
+      "Status": "ranked",
+      "evaluation_seconds": 51.21586945798481
+    },
+    {
+      "Candidate_Number": 1083,
+      "Status": "ranked",
+      "evaluation_seconds": 65.13289166695904
+    },
+    {
+      "Candidate_Number": 1084,
+      "Status": "ranked",
+      "evaluation_seconds": 50.5379265419906
+    },
+    {
+      "Candidate_Number": 1085,
+      "Status": "ranked",
+      "evaluation_seconds": 49.86923166702036
+    },
+    {
+      "Candidate_Number": 1086,
+      "Status": "ranked",
+      "evaluation_seconds": 63.002476208028384
+    },
+    {
+      "Candidate_Number": 1087,
+      "Status": "ranked",
+      "evaluation_seconds": 49.678652166971005
+    },
+    {
+      "Candidate_Number": 1088,
+      "Status": "ranked",
+      "evaluation_seconds": 49.77945437497692
+    },
+    {
+      "Candidate_Number": 1089,
+      "Status": "ranked",
+      "evaluation_seconds": 61.16296429198701
+    },
+    {
+      "Candidate_Number": 1090,
+      "Status": "ranked",
+      "evaluation_seconds": 96.55818479100708
+    },
+    {
+      "Candidate_Number": 1091,
+      "Status": "ranked",
+      "evaluation_seconds": 96.64421862497693
+    },
+    {
+      "Candidate_Number": 1092,
+      "Status": "ranked",
+      "evaluation_seconds": 129.85181299998658
+    },
+    {
+      "Candidate_Number": 1093,
+      "Status": "ranked",
+      "evaluation_seconds": 49.49305008299416
+    },
+    {
+      "Candidate_Number": 1094,
+      "Status": "ranked",
+      "evaluation_seconds": 49.93806433305144
+    },
+    {
+      "Candidate_Number": 1095,
+      "Status": "ranked",
+      "evaluation_seconds": 59.93926462501986
+    },
+    {
+      "Candidate_Number": 1096,
+      "Status": "ranked",
+      "evaluation_seconds": 49.19541504100198
+    },
+    {
+      "Candidate_Number": 1097,
+      "Status": "ranked",
+      "evaluation_seconds": 49.817886125005316
+    },
+    {
+      "Candidate_Number": 1098,
+      "Status": "ranked",
+      "evaluation_seconds": 60.18066395894857
+    },
+    {
+      "Candidate_Number": 1099,
+      "Status": "ranked",
+      "evaluation_seconds": 49.258068458002526
+    },
+    {
+      "Candidate_Number": 1100,
+      "Status": "ranked",
+      "evaluation_seconds": 49.651580500009004
+    },
+    {
+      "Candidate_Number": 1101,
+      "Status": "ranked",
+      "evaluation_seconds": 63.04196758300532
+    },
+    {
+      "Candidate_Number": 1102,
+      "Status": "ranked",
+      "evaluation_seconds": 102.6434042089968
+    },
+    {
+      "Candidate_Number": 1103,
+      "Status": "ranked",
+      "evaluation_seconds": 102.87229608400958
+    },
+    {
+      "Candidate_Number": 1104,
+      "Status": "ranked",
+      "evaluation_seconds": 142.07201566599542
+    },
+    {
+      "Candidate_Number": 1105,
+      "Status": "ranked",
+      "evaluation_seconds": 56.83658662502421
+    },
+    {
+      "Candidate_Number": 1106,
+      "Status": "ranked",
+      "evaluation_seconds": 57.14396987500368
+    },
+    {
+      "Candidate_Number": 1107,
+      "Status": "ranked",
+      "evaluation_seconds": 79.46493912499864
+    },
+    {
+      "Candidate_Number": 1108,
+      "Status": "ranked",
+      "evaluation_seconds": 58.85134354198817
+    },
+    {
+      "Candidate_Number": 1109,
+      "Status": "ranked",
+      "evaluation_seconds": 59.009290167014115
+    },
+    {
+      "Candidate_Number": 1110,
+      "Status": "ranked",
+      "evaluation_seconds": 77.42659491702216
+    },
+    {
+      "Candidate_Number": 1111,
+      "Status": "ranked",
+      "evaluation_seconds": 58.70568275003461
+    },
+    {
+      "Candidate_Number": 1112,
+      "Status": "ranked",
+      "evaluation_seconds": 58.63013604102889
+    },
+    {
+      "Candidate_Number": 1113,
+      "Status": "ranked",
+      "evaluation_seconds": 82.38241737498902
+    },
+    {
+      "Candidate_Number": 1114,
+      "Status": "ranked",
+      "evaluation_seconds": 109.03604370797984
+    },
+    {
+      "Candidate_Number": 1115,
+      "Status": "ranked",
+      "evaluation_seconds": 109.57569558400428
+    },
+    {
+      "Candidate_Number": 1116,
+      "Status": "ranked",
+      "evaluation_seconds": 132.9084730829927
+    },
+    {
+      "Candidate_Number": 1117,
+      "Status": "ranked",
+      "evaluation_seconds": 60.70622229098808
+    },
+    {
+      "Candidate_Number": 1118,
+      "Status": "ranked",
+      "evaluation_seconds": 61.02651820797473
+    },
+    {
+      "Candidate_Number": 1119,
+      "Status": "ranked",
+      "evaluation_seconds": 82.05225970799802
+    },
+    {
+      "Candidate_Number": 1120,
+      "Status": "ranked",
+      "evaluation_seconds": 55.6595064579742
+    },
+    {
+      "Candidate_Number": 1121,
+      "Status": "ranked",
+      "evaluation_seconds": 55.78297054104041
+    },
+    {
+      "Candidate_Number": 1122,
+      "Status": "ranked",
+      "evaluation_seconds": 72.33581374998903
+    },
+    {
+      "Candidate_Number": 1123,
+      "Status": "ranked",
+      "evaluation_seconds": 54.83134550001705
+    },
+    {
+      "Candidate_Number": 1124,
+      "Status": "ranked",
+      "evaluation_seconds": 54.70175075001316
+    },
+    {
+      "Candidate_Number": 1125,
+      "Status": "ranked",
+      "evaluation_seconds": 73.0460379999713
+    },
+    {
+      "Candidate_Number": 1126,
+      "Status": "ranked",
+      "evaluation_seconds": 104.24747429200215
+    },
+    {
+      "Candidate_Number": 1127,
+      "Status": "ranked",
+      "evaluation_seconds": 104.88344974996289
+    },
+    {
+      "Candidate_Number": 1128,
+      "Status": "ranked",
+      "evaluation_seconds": 147.55161220801529
+    },
+    {
+      "Candidate_Number": 1129,
+      "Status": "ranked",
+      "evaluation_seconds": 53.74791604198981
+    },
+    {
+      "Candidate_Number": 1130,
+      "Status": "ranked",
+      "evaluation_seconds": 53.04452062497148
+    },
+    {
+      "Candidate_Number": 1131,
+      "Status": "ranked",
+      "evaluation_seconds": 71.19517866702517
+    },
+    {
+      "Candidate_Number": 1132,
+      "Status": "ranked",
+      "evaluation_seconds": 57.135180666984525
+    },
+    {
+      "Candidate_Number": 1133,
+      "Status": "ranked",
+      "evaluation_seconds": 59.19312654196983
+    },
+    {
+      "Candidate_Number": 1134,
+      "Status": "ranked",
+      "evaluation_seconds": 72.47376620804425
+    },
+    {
+      "Candidate_Number": 1135,
+      "Status": "ranked",
+      "evaluation_seconds": 58.52875050000148
+    },
+    {
+      "Candidate_Number": 1136,
+      "Status": "ranked",
+      "evaluation_seconds": 55.40847816696623
+    },
+    {
+      "Candidate_Number": 1137,
+      "Status": "ranked",
+      "evaluation_seconds": 67.33441445801873
+    },
+    {
+      "Candidate_Number": 1138,
+      "Status": "ranked",
+      "evaluation_seconds": 102.22835441702046
+    },
+    {
+      "Candidate_Number": 1139,
+      "Status": "ranked",
+      "evaluation_seconds": 102.23603904095944
+    },
+    {
+      "Candidate_Number": 1140,
+      "Status": "ranked",
+      "evaluation_seconds": 138.26663174998248
+    },
+    {
+      "Candidate_Number": 1141,
+      "Status": "ranked",
+      "evaluation_seconds": 53.34257579204859
+    },
+    {
+      "Candidate_Number": 1142,
+      "Status": "ranked",
+      "evaluation_seconds": 53.76689895801246
+    },
+    {
+      "Candidate_Number": 1143,
+      "Status": "ranked",
+      "evaluation_seconds": 63.90087054204196
+    },
+    {
+      "Candidate_Number": 1144,
+      "Status": "ranked",
+      "evaluation_seconds": 51.22294820798561
+    },
+    {
+      "Candidate_Number": 1145,
+      "Status": "ranked",
+      "evaluation_seconds": 51.5241506670136
+    },
+    {
+      "Candidate_Number": 1146,
+      "Status": "ranked",
+      "evaluation_seconds": 60.343493499967735
+    },
+    {
+      "Candidate_Number": 1147,
+      "Status": "ranked",
+      "evaluation_seconds": 50.29738487501163
+    },
+    {
+      "Candidate_Number": 1148,
+      "Status": "ranked",
+      "evaluation_seconds": 50.66064766701311
+    },
+    {
+      "Candidate_Number": 1149,
+      "Status": "ranked",
+      "evaluation_seconds": 59.296919041953515
+    },
+    {
+      "Candidate_Number": 1150,
+      "Status": "ranked",
+      "evaluation_seconds": 78.07670495897764
+    },
+    {
+      "Candidate_Number": 1151,
+      "Status": "ranked",
+      "evaluation_seconds": 71.97581241599983
+    },
+    {
+      "Candidate_Number": 1152,
+      "Status": "ranked",
+      "evaluation_seconds": 81.39172629202949
+    }
+  ],
+  "clock": "time.perf_counter",
+  "evaluation_wall_seconds": 10658.385391457996,
+  "preflight_seconds": 0.7356510419631377,
+  "resumed_candidates": 0,
+  "total_wall_seconds": 10659.121042791987,
+  "workers": 6
+}

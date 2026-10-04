@@ -1,0 +1,33 @@
+{
+  "parameters": {
+    "buffer": {
+      "enabled": true,
+      "exit_multiplier": 1.5
+    },
+    "exposure": {
+      "gross": 1.5,
+      "long_share": 0.7
+    },
+    "schema_version": "2.0.0",
+    "sector_neutral": false,
+    "selection": {
+      "kind": "stocks",
+      "n_long": 10,
+      "n_short": 10
+    },
+    "signal": {
+      "family": "momentum",
+      "formation_months": 6,
+      "moving_average_months": null,
+      "selection_volatility": null,
+      "skip_months": 1
+    },
+    "sizing": {
+      "method": "equal",
+      "volatility": null
+    },
+    "turnover_threshold": 0.05
+  },
+  "strategy_id": "momentum",
+  "strategy_version": "2.0.0"
+}

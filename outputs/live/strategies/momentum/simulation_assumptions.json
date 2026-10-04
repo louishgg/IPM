@@ -1,0 +1,55 @@
+{
+  "accounting_model": "portfolio_accounting_v4",
+  "execution_conventions": {
+    "automatic_margin_calls": false,
+    "constraint_timing": "immediately_after_trades",
+    "feasibility_adjustment": "largest_common_scale_factor",
+    "minimum_entry_price_rule": "omitted_for_adjusted_price_basis",
+    "sign_flip_orders": 2,
+    "voluntary_share_rounding": "nearest_half_away_from_zero",
+    "whole_share_scope": "voluntary_orders_only"
+  },
+  "financing_conventions": {
+    "compounding": "daily_apr_over_365",
+    "daily_cent_rounding": false,
+    "day_count": "actual/365",
+    "interval": "[start_date,next_event_date)",
+    "restricted_short_proceeds": "historical_transactional_proceeds"
+  },
+  "price_basis": {
+    "domain": "live",
+    "ordinary_dividend_treatment": "embedded once in adjusted closes or event-return factors",
+    "price_basis_id": "yahoo_adjusted_with_reviewed_monthly_reconstruction_v2",
+    "price_source": "Yahoo Finance adjusted OHLC; reviewed Reuters monthly reconstruction",
+    "price_treatment": "daily execution remains Yahoo adjusted; monthly history composes adjusted Yahoo closes with reviewed reconstructions and explicit event valuations"
+  },
+  "rules": {
+    "cash_interest_rate": 0.02,
+    "day_count_days": 365,
+    "fee_per_trade": 2.0,
+    "initial_capital": 1000000.0,
+    "loan_interest_rate": 0.08,
+    "maximum_gross_exposure": 2.0,
+    "minimum_long_positions": 10,
+    "minimum_positions": 20,
+    "minimum_short_positions": 10,
+    "whole_share_orders": true
+  },
+  "schema_version": 4,
+  "simulation_fingerprint": "978f9c08021695fe5a2159b434aa261ec61e7bd9d4fd863b4527935c561c0636",
+  "spread": {
+    "buy_cover": "ask",
+    "missing_liquidity_bps": 15.0,
+    "model": "fixed_adv_half_spread_v2",
+    "parameters": {
+      "base_bps": 1.0,
+      "liquidity_anchor_usd": 10000000.0,
+      "liquidity_bps": 7.0,
+      "max_bps": 15.0,
+      "min_bps": 1.0
+    },
+    "sell_short": "bid",
+    "side": "one_way_half_spread",
+    "tick_size_floor": "omitted_for_adjusted_price_basis"
+  }
+}

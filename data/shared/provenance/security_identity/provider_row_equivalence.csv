@@ -1,0 +1,3 @@
+Equivalence_ID,Scope,Provider,Asset_ID,Predecessor_Symbol,Successor_Symbol,Effective_Date,Compared_Fields,Absolute_Tolerance,Relative_Tolerance,Common_Start,Common_End,Common_Row_Count,Predecessor_Artifact_SHA256,Successor_Response_SHA256,Review_Status,Review_Result,Notes
+EQ-LIVE-YAHOO-BK-BNY-HISTORICAL,live,yahoo,BK,BK,BNY,2026-05-21,,,,,,0,,,approved,not_evaluated,No reviewed row-equivalence comparison was performed. The historical Yahoo alias is authorized only by the approved same-security 1:1 relabel and manifested acquisition coverage.
+EQ-LIVE-YAHOO-CTRA-DVN-HISTORICAL,live,yahoo,CTRA,CTRA,DVN,2026-05-07,,,,,,0,,,approved,rejected,CTRA was extinguished for 0.70 DVN shares. DVN is a different pre-event security and can never backfill historical CTRA prices.

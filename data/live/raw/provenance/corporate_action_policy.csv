@@ -1,0 +1,12 @@
+Event_ID,Scope,Apply_Accounting,CVR_Base_Value_Per_Unit,Valuation_As_Of_Date,Valuation_Available_Date,Valuation_Source_ID,Review_Status,Notes
+EVT-20260204-DAY-CASH-ACQUISITION,live,True,0.0,,,,approved,The event precedes the live execution window; retain it for a complete audited lifecycle.
+EVT-20260407-HOLX-CASH-CVR-ACQUISITION,live,True,0.0,,,,approved,Guaranteed cash enters base NAV; the non-tradable CVR remains a separate zero-to-contractual-maximum sensitivity.
+EVT-20260507-CTRA-DVN-STOCK-EXCHANGE,live,True,0.0,,,,approved,The event follows the current strategy window and is enabled only for a future window that crosses its effective date.
+EVT-20260521-BK-BNY-TICKER-CHANGE,live,True,0.0,,,,approved,The same-security relabel follows the current strategy window and is enabled only for a future window that crosses its effective date.
+EVT-20250717-ANSS-SNPS-CASH-AND-STOCK,live,true,0.0,,,,approved,Historical monthly settlement; canonical legal terms reused. No synthetic daily execution price.
+EVT-20250518-DFS-COF-STOCK-EXCHANGE,live,true,0.0,,,,approved,Historical monthly settlement; canonical legal terms reused. No synthetic daily execution price.
+EVT-20251126-IPG-OMC-STOCK-EXCHANGE,live,true,0.0,,,,approved,Historical monthly settlement; canonical legal terms reused. No synthetic daily execution price.
+EVT-20250702-JNPR-CASH-SETTLEMENT,live,true,0.0,,,,approved,Historical monthly settlement; canonical legal terms reused. No synthetic daily execution price.
+EVT-20251211-K-CASH-SETTLEMENT,live,true,0.0,,,,approved,Historical monthly settlement; canonical legal terms reused. No synthetic daily execution price.
+EVT-20250718-HES-CVX-STOCK-EXCHANGE,live,true,0.0,,,,approved,Historical monthly settlement; canonical legal terms reused. No synthetic daily execution price.
+EVT-20250828-WBA-CASH-DAP-ACQUISITION,live,true,0.53,2025-08-31,2025-10-24,SRC-20250831-WBA-FUND-VALUATION,approved,USD0.53 Level 3 estimate for the August 2025 historical merger interval only. Cash remains USD11.45; rights remain separate. The canonical backtest zero convention is unchanged.

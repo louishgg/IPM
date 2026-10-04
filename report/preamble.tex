@@ -1,0 +1,99 @@
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{lmodern}
+\usepackage[
+  a4paper,
+  left=1.9cm,
+  right=1.9cm,
+  top=2.35cm,
+  bottom=2.35cm,
+  headheight=15pt
+]{geometry}
+\usepackage{microtype}
+\usepackage{setspace}
+\usepackage{amsmath,amssymb,mathtools}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{threeparttable}
+\usepackage{array}
+\usepackage{siunitx}
+\usepackage{caption}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{xurl}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage[numbers,sort&compress]{natbib}
+\usepackage[hidelinks]{hyperref}
+\usepackage[nameinlink,capitalise,noabbrev]{cleveref}
+
+\definecolor{ReportBlue}{HTML}{1D4ED8}
+\definecolor{ReportInk}{HTML}{1F2937}
+\definecolor{ReportGrey}{HTML}{6B7280}
+\definecolor{ReportLight}{HTML}{EFF6FF}
+
+\hypersetup{
+  pdfauthor={Louis Hogge},
+  pdftitle={Systematic Long-Short Equity Research},
+  pdfsubject={Investment and Portfolio Management research report},
+  pdfkeywords={momentum, portfolio accounting, mean variance, attribution, reproducibility},
+  colorlinks=true,
+  linkcolor=ReportBlue,
+  citecolor=ReportBlue,
+  urlcolor=ReportBlue
+}
+
+\setstretch{1.06}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.55em}
+\setlist{nosep,leftmargin=1.6em}
+\setcounter{secnumdepth}{3}
+
+\titleformat{\section}
+  {\Large\bfseries\color{ReportInk}}
+  {\thesection}{0.7em}{}
+\titleformat{\subsection}
+  {\large\bfseries\color{ReportInk}}
+  {\thesubsection}{0.65em}{}
+\titleformat{\subsubsection}
+  {\normalsize\bfseries\color{ReportInk}}
+  {\thesubsubsection}{0.55em}{}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small Systematic Long-Short Equity Research}
+\fancyhead[R]{\parbox[b]{0.54\textwidth}{\raggedleft\small\nouppercase{\leftmark}}}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+
+\captionsetup{
+  font=small,
+  labelfont=bf,
+  textfont=it,
+  justification=justified,
+  singlelinecheck=false
+}
+\captionsetup[table]{position=bottom}
+\newcommand{\reportfigurewidth}{0.72\textwidth}
+\captionsetup[figure]{width=\reportfigurewidth}
+
+\sisetup{
+  group-separator={,},
+  group-minimum-digits=4,
+  detect-all
+}
+
+\usepackage{float}
+\usepackage{placeins}
+\definecolor{Ink}{HTML}{1F2937}
+\definecolor{Grey}{HTML}{6B7280}
+\definecolor{Light}{HTML}{EFF6FF}
+\renewcommand{\sectionmark}[1]{\markboth{#1}{}}
+\fancyhead[R]{\parbox[b]{0.54\textwidth}{\raggedleft\small\nouppercase{\leftmark}}}
+\setlength{\headheight}{28pt}
+\setlength{\emergencystretch}{1.5em}
+\sisetup{group-digits=integer}
+\titlespacing*{\section}{0pt}{1.2em}{0.55em}
+\titlespacing*{\subsection}{0pt}{0.85em}{0.3em}

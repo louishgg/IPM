@@ -1,0 +1,12 @@
+{
+  "state": "complete",
+  "candidate_number": 1424,
+  "candidate_id": "df9d1e5706e58cebbac9bbf31848e3871f11a9cc99020e33de9121ff2907575c",
+  "seconds": 6.2011505420086905,
+  "completed_utc": "2026-10-01T13:57:20.087821+00:00",
+  "observations": 24,
+  "sha256": {
+    "metrics.json": "fb1fce98d7e33d56e4bc8a82a23ebe346a5bcefe76a4d2a85169398d68a743f5",
+    "returns.csv": "0d9059b81c384a3f5dc87298b32787f52e9f910178da95edd76d427fbecdeca6"
+  }
+}

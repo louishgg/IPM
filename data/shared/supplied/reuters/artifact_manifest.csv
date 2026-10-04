@@ -1,0 +1,2 @@
+Schema_Version,Scope,Dataset,Origin,Captured_At_UTC,Artifact_Path,SHA256,Rows,Columns
+2,backtest,prices,supplied,,SP500_Full_2014_2026_Cleaned.csv,bbe9f049bce03ed5cc509e7048e164d18c9e9468d240ab18a7931dd7bb72d1f8,92002,"[""Date"",""Price Open"",""Price High"",""Price Low"",""Price Close"",""Volume"",""RIC"",""Monthly_Return"",""Volume_Mln""]"

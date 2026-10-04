@@ -1,0 +1,12 @@
+Scope,Dataset,Asset_ID,Provider,Provider_Symbol,Effective_Start,Effective_End,Status,Requested_Start,Requested_End,Observation_Count,Observation_Start,Observation_End,Attempted_At_UTC,Client,Client_Version,HTTP_Status,Error_Class,Error_Message,Migration_Note
+backtest,prices,AMTM,yahoo,AMTM,2024-09-27,2024-12-23,ok,2024-09-27,2024-12-22,60,2024-09-27,2024-12-20,2026-08-31T11:49:30.995669Z,yfinance,1.5.1,200,,,unified_price_domain_state_v1
+backtest,prices,CLF,yahoo,CLF,2014-01-01,2014-04-02,ok,2014-01-01,2014-04-01,62,2014-01-02,2014-04-01,2026-08-31T11:49:33.637719Z,yfinance,1.5.1,200,,,unified_price_domain_state_v1
+backtest,prices,GHC,yahoo,GHC,2014-01-01,2014-09-22,ok,2014-01-01,2014-09-21,181,2014-01-02,2014-09-19,2026-08-31T11:49:37.088277Z,yfinance,1.5.1,200,,,unified_price_domain_state_v1
+backtest,prices,HON.O,yahoo,HON,2025-10-23,2025-11-06,ok,2025-10-23,2025-11-05,10,2025-10-23,2025-11-05,2026-08-31T12:40:13.846103Z,yfinance,1.5.1,200,,,unified_price_domain_state_v1
+backtest,prices,J,yahoo,J,2024-09-20,2024-10-05,ok,2024-09-20,2024-10-04,11,2024-09-20,2024-10-04,2026-08-31T12:40:16.256865Z,yfinance,1.5.1,200,,,unified_price_domain_state_v1
+backtest,prices,MMM,yahoo,MMM,2014-01-01,,ok,2014-01-01,2026-01-31,3038,2014-01-02,2026-01-30,2026-08-31T11:49:40.278420Z,yfinance,1.5.1,200,,,unified_price_domain_state_v1
+backtest,prices,SLM,yahoo,SLM,2014-01-01,,ok,2014-01-01,2014-05-31,103,2014-01-02,2014-05-30,2026-08-31T11:49:43.379861Z,yfinance,1.5.1,200,,,unified_price_domain_state_v1
+backtest,prices,SNDK.O,yahoo,SNDK,2025-02-24,,ok,2025-02-24,2025-02-24,1,2025-02-24,2025-02-24,2026-08-31T13:57:50.025702Z,yfinance,1.5.1,200,,,unified_price_domain_state_v1
+backtest,prices,SOLS,yahoo,SOLS,2025-10-30,2025-12-22,ok,2025-10-30,2025-12-21,36,2025-10-30,2025-12-19,2026-08-31T11:49:45.398398Z,yfinance,1.5.1,200,,,unified_price_domain_state_v1
+backtest,prices,WDC.O,yahoo,WDC,2025-02-14,2025-03-01,ok,2025-02-14,2025-02-28,10,2025-02-14,2025-02-28,2026-08-31T12:40:22.670452Z,yfinance,1.5.1,200,,,unified_price_domain_state_v1
+backtest,prices,WIKI-MAPPED-EXTRACT,wiki,WIKI_PRICES.csv@aff4c4f3,2014-01-01,2015-12-12,ok,2014-01-01,2015-12-11,2166605,2014-01-02,2016-12-19,2026-08-31T11:49:45.614669Z,python-urllib,3.14.2,200,,,unified_price_domain_state_v1

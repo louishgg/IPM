@@ -1,0 +1,87 @@
+{
+  "artifacts": {
+    "sector_return_constituents.csv.gz": "92bb7ce43b9ae9fc17a31ad2427444a0411b155303968025a08a765ab78fe573",
+    "sector_return_summary.csv.gz": "94343de64845cd3ab5f4d455d1ccff088db9d3a5dad4af6b1910bd17352c387b",
+    "sector_returns.csv.gz": "fd3c48a256a37f2a5c1b5ad18adf78189b91c4fab21fe6116ea1c569d41a90c8"
+  },
+  "contract": "historical_equal_weight_sector_v1",
+  "end": "2023-12-31",
+  "identity": {
+    "assumptions": {
+      "accounting_model": "portfolio_accounting_v4",
+      "execution_conventions": {
+        "automatic_margin_calls": false,
+        "constraint_timing": "immediately_after_trades",
+        "feasibility_adjustment": "largest_common_scale_factor",
+        "minimum_entry_price_rule": "omitted_for_adjusted_price_basis",
+        "sign_flip_orders": 2,
+        "voluntary_share_rounding": "nearest_half_away_from_zero",
+        "whole_share_scope": "voluntary_orders_only"
+      },
+      "financing_conventions": {
+        "compounding": "daily_apr_over_365",
+        "daily_cent_rounding": false,
+        "day_count": "actual/365",
+        "interval": "[start_date,next_event_date)",
+        "restricted_short_proceeds": "historical_transactional_proceeds"
+      },
+      "price_basis": {
+        "domain": "backtest",
+        "ordinary_dividend_treatment": "omitted",
+        "price_basis_id": "reuters_yahoo_wiki_price_return_v1",
+        "price_source": "Reuters supplied Price Close, Yahoo Close with auto_adjust=False, and hash-pinned WIKI close",
+        "price_treatment": "effective-dated Reuters-first deterministic monthly merge; unadjusted price-return series with reviewed corporate actions"
+      },
+      "rules": {
+        "cash_interest_rate": 0.02,
+        "day_count_days": 365,
+        "fee_per_trade": 2.0,
+        "initial_capital": 1000000.0,
+        "loan_interest_rate": 0.08,
+        "maximum_gross_exposure": 2.0,
+        "minimum_long_positions": 10,
+        "minimum_positions": 20,
+        "minimum_short_positions": 10,
+        "whole_share_orders": true
+      },
+      "schema_version": 4,
+      "simulation_fingerprint": "7726fbf8fb7bc1307ec83b7e4c1141aeaefe9ac486100bcdd3a6e31be7b42b70",
+      "spread": {
+        "buy_cover": "ask",
+        "missing_liquidity_bps": 15.0,
+        "model": "fixed_adv_half_spread_v2",
+        "parameters": {
+          "base_bps": 1.0,
+          "liquidity_anchor_usd": 10000000.0,
+          "liquidity_bps": 7.0,
+          "max_bps": 15.0,
+          "min_bps": 1.0
+        },
+        "sell_short": "bid",
+        "side": "one_way_half_spread",
+        "tick_size_floor": "omitted_for_adjusted_price_basis"
+      }
+    },
+    "assumptions_fingerprint": "7726fbf8fb7bc1307ec83b7e4c1141aeaefe9ac486100bcdd3a6e31be7b42b70",
+    "code_fingerprint": "4c651c8fecd408d5501b7b399d0294670e7882a588dc1b927de4b39a8fb02282",
+    "data_fingerprint": "62ac9384c919062eb26059ac9a0e19714dced2acb6e021f850a691b341a24f85",
+    "evaluation": {
+      "initial_research_end_date": "2017-12-31",
+      "initial_research_start_date": "2015-01-31",
+      "signal_warmup_end_date": "2014-12-31",
+      "signal_warmup_start_date": "2014-01-31",
+      "test_start_date": "2024-01-31",
+      "validation_end_date": "2023-12-31",
+      "validation_start_date": "2018-01-31"
+    },
+    "runtime_versions": {
+      "numpy": "2.4.2",
+      "pandas": "3.0.0",
+      "python": "3.14.2 | packaged by Anaconda, Inc. | (main, Dec 19 2025, 11:42:52) [Clang 20.1.8 ]"
+    },
+    "schema_version": "2.0.0",
+    "strategy_id": "sector_momentum",
+    "strategy_version": "2.0.0"
+  },
+  "start": "2015-01-31"
+}

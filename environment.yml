@@ -1,0 +1,17 @@
+name: finance
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.14
+  - matplotlib
+  - numpy
+  - pandas
+  - pytest
+  - requests
+  - scipy
+  - scikit-learn
+  - curl-cffi=0.15.0
+  - yfinance=1.5.1
